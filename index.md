@@ -4,12 +4,12 @@
 <a href="wlodosido@gmail.com">wlodosido@gmail.com</a><br>
 <a href="http://sidorczuk.com">My SDRC/arch website</a>
 </div>
-
 ---
-## Currently
-Looking for new opportunities
+## Currently:
+Looking for new opportunities in dev market.
 
-### Specialized in
+### Specialized in:
+
 ### skills
 	unix **///
 	py **///
@@ -20,32 +20,33 @@ Looking for new opportunities
 	db *////
 	sql /////
 	nosql /////
-	
+	markdown ***//
+
 ### cgi skills
 	psd ****/
 	3ds **///
 	cad *****
-	
+
 ### other skills
-	legal docs ****/
+	legal ****/
 	lead ****/
 	pm ****/
 
 ## Research interests
-coding, gamedev
+Coding, gamedev.
 
 ## Education
 `1993 - 2000`
-**Technical University of Warsaw.** *Faculty of Architecture.*
+**Technical University of Warsaw, PL** *Faculty of Architecture.*
 
 `1996`
-**University of Detroit Mercy.** Architecture, Data Science.
+**University of Detroit Mercy, USA** *Architecture, Data Science.*
 
 `1999`
-**University of Eindhoven.**, Architecture.
+**University of Eindhoven, NL**, *Architecture.*
 
 ## Work
-`2008-now`
+`2008 - now`
 **Comdesigne.**
 - CEO, Project Manager, Architect.
 
@@ -55,7 +56,7 @@ Competition, *Marszalkowska St.*, Warsaw, PL
 
 ## Publications
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
+[archdaily](http://sidorczuk.com)
 
 <!-- ### Footer
 updated: Nov 2021 -->
