@@ -20,10 +20,12 @@ Looking for new opportunities
 	db *////
 	sql /////
 	nosql /////
+	
 ### cgi skills
 	psd ****/
 	3ds **///
 	cad *****
+	
 ### other skills
 	legal docs ****/
 	lead ****/
