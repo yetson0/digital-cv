@@ -36,6 +36,7 @@ Coding, gamedev.
 
 `1993 - 2000`
 **Technical University of Warsaw.**
+
 Faculty of Architecture.
 
 `2008 - now`
