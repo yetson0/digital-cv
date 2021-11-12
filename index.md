@@ -45,7 +45,7 @@ coding, gamedev
 **University of Eindhoven.**, Architecture.
 
 ## Work
-`2008 - now`
+`2008-now`
 **Comdesigne.**
 - CEO, Project Manager, Architect.
 
