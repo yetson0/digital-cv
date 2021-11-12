@@ -5,6 +5,7 @@
 <a href="http://sidorczuk.com">My SDRC/arch website</a>
 </div>
 ---
+
 ## Currently:
 Looking for new opportunities in dev market.
 
