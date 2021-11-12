@@ -12,7 +12,7 @@ Looking for new opportunities in dev market.
 
 ### Specialized in:
 
-### skills
+### *skills*
 	unix **///
 	py **///
 	js *////
