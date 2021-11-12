@@ -1,4 +1,31 @@
-### deployed.
+layout: cv
+title: WS's CV
+---
+# IT cv
+Wlodo Sido
+
+<div id="webaddress">
+<a href="wlodosido@gmail.com">wlodosido@gmail.co</a>
+| <a href="http://sidorczuk.com">My SDRC/arch website</a>
+</div>
+
+---
+## skills
+	unix **///
+	py **///
+	js *////
+	html,css **///
+
+	github *////
+	db *////
+	sql /////
+	nosql /////
+
+## cgi skills
+	psd ****/
+	3ds **///
+	cad *****
+
 
 ---
 layout: cv
