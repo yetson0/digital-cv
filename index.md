@@ -1,6 +1,3 @@
-layout: cv
-title: WS's CV
----
 # IT cv
 Wlodo Sido
 
