@@ -19,10 +19,10 @@
 *Looking for new opportunities in dev market.*
 
 ### Specialized in / skills
-	unix **///
-	py **///
-	js *////
-	html,css **///
+	unix **---
+	py **---
+	js *----
+	html,css **---
 
 	github *////
 	db *////
@@ -31,14 +31,14 @@
 	markdown ***//
 
 ### cgi skills
-	psd ****/
-	3d **///
-	cad *****
+	psd !!!!-
+	3d !!---
+	cad !!!!!
 
 ### other skills
-	legal ****/
-	lead ****/
-	pm ****/
+	legal ////-
+	lead ////-
+	pm //---
 
 	test **---
 	test ****-
