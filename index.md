@@ -41,9 +41,13 @@
 	pm ****/
 
 	test **---
+	test ****-
+
 	test ||||-
+	test |----
+
 	test ///--
-	test |||//
+	test /----
 
 ## Research interests
 Coding, gamedev.
