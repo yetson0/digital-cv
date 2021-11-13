@@ -1,3 +1,11 @@
+<!-- #                             
+          |                   
+,   .,---.|--- ,---.,---.,---.
+|   ||---'|    `---.|   ||   |
+`---|`---'`---'`---'`---'`   '
+`---'                          
+-->
+
 # Wlodo Sido -- it cv;
 
 <div id="webaddress">
@@ -10,9 +18,7 @@
 ## Currently:
 Looking for new opportunities in dev market.
 
-### Specialized in:
-
-### *skills*
+### Specialized in / skills:
 	unix **///
 	py **///
 	js *////
@@ -24,39 +30,44 @@ Looking for new opportunities in dev market.
 	nosql /////
 	markdown ***//
 
-### cgi skills
+### cgi skills:
 	psd ****/
-	3ds **///
+	3d **///
 	cad *****
 
-### other skills
+### other skills:
 	legal ****/
 	lead ****/
 	pm ****/
 
-## Research interests
+	test ###//
+	test +++--
+	test ooo--
+	test xx---
+
+## Research interests.
 Coding, gamedev.
 
-## Education
+## Education.
 `1993 - 2000`
-**Technical University of Warsaw, PL** *Faculty of Architecture.*
+**Technical University of Warsaw, PL.** *Faculty of Architecture.*
 
 `1996`
-**University of Detroit Mercy, USA** *Architecture, Data Science.*
+**University of Detroit Mercy, USA.** *Architecture, Data Science.*
 
 `1999`
-**University of Eindhoven, NL**, *Architecture.*
+**University of Eindhoven, NL.** *Architecture.*
 
-## Work
+## Work.
 `2008 - now`
 **Comdesigne.**
 - CEO, Project Manager, Architect.
 
-## Awards
+## Awards.
 `2000`
 Competition, *Marszalkowska St.*, Warsaw, PL
 
-## Publications
+## Publications.
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 [archdaily](http://sidorczuk.com)
 
