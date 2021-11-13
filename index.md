@@ -24,21 +24,21 @@
 	js *----
 	html,css **---
 
-	github *////
-	db *////
-	sql /////
-	nosql /////
-	markdown ***//
+	github *----
+	db *----
+	sql -----
+	nosql -----
+	markdown ***--
 
 ### cgi skills
-	psd !!!!-
-	3d !!---
-	cad !!!!!
+	psd ****-
+	3d **---
+	cad *****
 
 ### other skills
-	legal ////-
-	lead ////-
-	pm //---
+	legal ****-
+	lead ****-
+	pm **---
 
 	test **---
 	test ****-
