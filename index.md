@@ -36,22 +36,13 @@
 	cad *****
 
 ### other skills
-	legal ****-
+	legal ***--
 	lead ****-
-	pm **---
+	pm ****-
 
-	test **---
-	test ****-
-
-	test ///--
-	test !!!--
-	test !----
-
-	test ///--
-	test /----
 
 ## Research interests
-Coding, gamedev.
+web3, blockchain, gamedev.
 
 ## Education
 `1993 - 2000`
