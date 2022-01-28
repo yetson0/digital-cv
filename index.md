@@ -6,7 +6,7 @@
 `---'                          
 -->
 
-# Włodek Sidorczuk // it CV
+# Wlodo Si // it CV
 
 <div id="webaddress">
 <a href="mailto:wlodosido@gmail.com">wlodosido@gmail.com</a><br>
