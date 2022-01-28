@@ -26,7 +26,7 @@
 	sql **---	| creation, selection, modification, nested queries
 	github *----	| repositories, push, pull requests
 	cicd *----	| general idea of docker, continuous integration/delivery
-	z80 assembly ***--
+	z80 ***--
 ### / cgi specialized
 	2d ****-	| advanced skills in adobe photoshop, illustrator, indesign and other
 	3d ***--	| working knowledge of maya, 3dmax, sketchup
