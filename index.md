@@ -53,7 +53,7 @@
 
 ## Courses
 `2021`
-**Python Operating Systems**, Google Coursera, _in progress._
+**Python Operating Systems**, Google Coursera.
 
 `2021`
 **Machine Learning Crash Course**, Google.
@@ -62,7 +62,7 @@
 **Crash Course on Pyton**, Google Coursera Certificate.
 
 `2022`
-**SQL Crash Course** for beginners, DataScienceDojo;
+**SQL Crash Course** for beginners, DataScienceDojo.
 
 `2007`
 **Rhino**, *Advanced Computer Modeling*, course & certificate, Lemondim.
