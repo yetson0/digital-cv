@@ -19,7 +19,7 @@
 *Motivated team player and fast learner with over decade of experience in lead, project management and business development is looking to engage into IT career. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork and open minded for any opportunities to develop further skills based on already possessed talents.*
 
 ## skills
-	py **---	| functions, dictionaries, comprehensions, classes, file operations, db
+	py **---	| functions, dictionaries, comprehensions, classes, file operations, db, pandas
 	unix **---	| file operations, permissions, variables, streams, bash scripting, vim
 	js *----	| basic code and script implementation
 	html,css **---	| general skills, webpage deployment, js integration, markdown
@@ -35,7 +35,7 @@
 ### / other 
 	lead ****-	| advanced in leadership, experience managing 10+ teams
 	pm ****-	| experienced in project management, budget planning, supervising
-	jira ***--	| working knowledge of jira/youtrack, agile scrum/kanban methodology
+	jira ***--	| admin knowledge of jira/youtrack, agile scrum/kanban methodology
 	legal ***--	| experienced in legal documents, agreements, contracts
 	gsuite ***--	| strong general knowledge, scripting, automation
 	ml *----	| general machine learning concepts, numpy, pandas, tensorflow
@@ -56,6 +56,9 @@
 `2022`
 **Google Cloud Fundamentals: Core Infrastructure,
 Create and Manage Cloud Resources**, Google.
+
+`2022`
+**Crash Course in Data Visualization**, Data Science Dojo.
 
 `2021`
 **Python Operating Systems**, Google Coursera.
