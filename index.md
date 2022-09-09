@@ -24,14 +24,14 @@
 	js *----	| basic code and script implementation
 	html,css **---	| general skills, webpage deployment, js integration, markdown
 	sql **---	| creation, selection, modification, nested queries
-	github *----	| repositories, push, pull requests
+	git *----	| repositories operations
 	cicd *----	| general idea of docker, continuous integration/delivery
 	z80 ***--	| assembly
 ### / cgi specialized
 	2d ****-	| advanced skills in adobe photoshop, illustrator, indesign and other
 	3d ***--	| working knowledge of maya, 3dmax, sketchup
 	cad *****	| excellent tutor autocad knowledge
-	freehand ***--	| strong freehand drawing skills
+	freehand ****-	| strong freehand drawing skills
 ### / other 
 	lead ****-	| advanced in leadership, experience managing 10+ teams
 	pm ****-	| experienced in project management, budget planning, supervising
@@ -52,6 +52,11 @@
 **University of Detroit Mercy, USA.** Architecture, Data Science.
 
 ## Courses
+
+`2022`
+**Google Cloud Fundamentals: Core Infrastructure,
+Create and Manage Cloud Resources**, Google.
+
 `2021`
 **Python Operating Systems**, Google Coursera.
 
@@ -69,7 +74,10 @@
 
 ## / Awards / Accomplishments
 `2009 - 2021`
-Successfully lead and delivered *over 100* architectural multidisciplinary projects into life.
+Successfully lead and delivered *100+* architectural multidisciplinary projects into life.
+
+`2011`
+Architectural license, *Chamber of Architects of the Republic of Poland*
 
 `2005`
 Architectural competition, *JP2 Memorial*, 2nd prize.
@@ -82,7 +90,7 @@ Architectural competition, *Marszalkowska St.*, main prize.
 
 ## / other
 `2010` `2017`
-*Helicopter Pilot Licence;* PPL/H & CPL/H Private and Commercial licences, 1k+ hours exp.
+*Helicopter Pilot Licence;* PPL/H & CPL/H Commercial licence, 1k+ hours commercial experience.
 
 `2016`
 *Archdaily Magazine, Publication;* Realisation of [City Home with a Touch of Fibonacci.](https://www.archdaily.com/793466/home-town-with-a-touch-of-fibonacci-wlodek-sidorczuk?)
