@@ -24,7 +24,7 @@
 	js *----	| basic code and script implementation
 	html,css **---	| general skills, webpage deployment, js integration, markdown
 	sql **---	| creation, selection, modification, nested queries
-	git *----	| repositories operations
+	git **---	| repositories operations
 	cicd *----	| general idea of docker, continuous integration/delivery
 	z80 ***--	| assembly
 ### / cgi specialized
@@ -35,7 +35,7 @@
 ### / other 
 	lead ****-	| advanced in leadership, experience managing 10+ teams
 	pm ****-	| experienced in project management, budget planning, supervising
-	jira ***--	| admin knowledge of jira/youtrack, agile scrum/kanban methodology
+	agile ***--	| admin knowledge of jira/youtrack, agile scrum/kanban methodology
 	legal ***--	| experienced in legal documents, agreements, contracts
 	gsuite ***--	| strong general knowledge, scripting, automation
 	ml *----	| general machine learning concepts, numpy, pandas, tensorflow
