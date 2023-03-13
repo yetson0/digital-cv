@@ -21,11 +21,11 @@
 ## skills
 	py **---	| functions, dictionaries, comprehensions, classes, file operations, db, pandas
 	unix **---	| file operations, permissions, variables, streams, bash scripting, vim
-	js *----	| basic code and script implementation
+	js **---	| general code and script implementation knwoledge, react app
 	html,css **---	| general skills, webpage deployment, js integration, markdown
 	sql **---	| creation, selection, modification, nested queries
-	git **---	| repositories operations
-	cicd *----	| general idea of docker, continuous integration/delivery
+	git ***--	| repositories operations
+	cicd *----	| docker, continuous integration/delivery
 	z80 ***--	| assembly
 ### / cgi specialized
 	2d ****-	| advanced skills in adobe photoshop, illustrator, indesign and other
