@@ -37,7 +37,7 @@
 	pm ****-	| experienced in project management, budget planning, supervising
 	agile ***--	| admin knowledge of jira/youtrack, agile scrum/kanban methodology
 	legal ***--	| experienced in legal documents, agreements, contracts
-	gsuite ***--	| strong general knowledge, scripting, automation
+	gsuite ****-	| strong general knowledge, scripting, automation
 	ml *----	| general machine learning concepts, numpy, pandas, tensorflow
 
 
