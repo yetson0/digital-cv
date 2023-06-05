@@ -42,10 +42,10 @@
 
 ## Exp
 `2022 - cur`
-**Vile Monarch** *Game Dev Industry*, Managing game development team and producing titles, Localization content data wrangler, *Producer*.
+**Vile Monarch** *Game Dev Industry, Producer*, Managing game development team and producing titles, Localization content data wrangler.
 
 `2022 - cur`
-**National Institute of Health** Data analysis, raproting and preparation for ML models enpowering pandemic predictions, corelation with society's risk factors, *Senior Data Scientist*.
+**National Institute of Health**, *Senior Data Scientist*, Data analysis, raporting and preparation for ML models enpowering pandemic predictions, corelation with society's risk factors.
 
 ## Courses
 
