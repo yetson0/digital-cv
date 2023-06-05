@@ -41,10 +41,10 @@
 	ml *----	| general machine learning concepts, numpy, pandas, tensorflow
 
 ## Exp
-`2022 - `
+`2022 - cur`
 **Vile Monarch** *Game Dev Industry*, Managing game development team and producing titles, Localization content data wrangler, *Producer*.
 
-`2022 - `
+`2022 - cur`
 **National Institute of Health** Data analysis, raproting and preparation for ML models enpowering pandemic predictions, corelation with society's risk factors, *Senior Data Scientist*.
 
 ## Courses
