@@ -19,37 +19,33 @@
 *Motivated team player and fast learner with over decade of experience in lead, project management and business development is looking to engage into IT career. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork and open minded for any opportunities to develop further skills based on already possessed talents.*
 
 ## skills
-	py **---	| functions, dictionaries, comprehensions, classes, file operations, db, pandas
+	py **---	| general, db, pandas, os
 	unix **---	| file operations, permissions, variables, streams, bash scripting, vim
-	js **---	| general code and script implementation knwoledge, react app
-	html,css **---	| general skills, webpage deployment, js integration, markdown
+	js *----	| general script implementation, react
+	html,css **---	| webpage deployment, js integration, markdown, figma
 	sql **---	| creation, selection, modification, nested queries
 	git ***--	| repositories operations
-	cicd *----	| docker, continuous integration/delivery
+	cicd *----	| docker
 	z80 ***--	| assembly
 ### / cgi specialized
-	2d ****-	| advanced skills in adobe photoshop, illustrator, indesign and other
+	2d ****-	| advanced skills in adobe
 	3d ***--	| working knowledge of maya, 3dmax, sketchup
 	cad *****	| excellent tutor autocad knowledge
 	freehand ****-	| strong freehand drawing skills
 ### / other 
-	lead ****-	| advanced in leadership, experience managing 10+ teams
+	lead ****-	| advanced in leadership, experience managing 20+ teams
 	pm ****-	| experienced in project management, budget planning, supervising
-	agile ***--	| admin knowledge of jira/youtrack, agile scrum/kanban methodology
+	agile ****-	| wide knowledge of jira/youtrack, agile scrum/kanban methodology, sys admin
 	legal ***--	| experienced in legal documents, agreements, contracts
-	gsuite ****-	| strong general knowledge, scripting, automation
+	gsuite ****-	| strong formulas knowledge, scripting, automation
 	ml *----	| general machine learning concepts, numpy, pandas, tensorflow
 
+## Exp
+`2022 - `
+**Vile Monarch** *Game Dev Industry*, Managing game development team and producing titles, Localization content data wrangler, *Producer*.
 
-## Education
-`1993 - 2000`
-**Technical University of Warsaw, PL.** Faculty of Architecture, *Master Degree*.
-
-`1999`
-**Technical University of Eindhoven, NL.** Architecture.
-
-`1996`
-**University of Detroit Mercy, USA.** Architecture, Data Science.
+`2022 - `
+**National Institute of Health** Data analysis, raproting and preparation for ML models enpowering pandemic predictions, corelation with society's risk factors, *Senior Data Scientist*.
 
 ## Courses
 
@@ -74,6 +70,16 @@ Create and Manage Cloud Resources**, Google.
 
 `2007`
 **Rhino**, *Advanced Computer Modeling*, course & certificate, Lemondim.
+
+## Education
+`1993 - 2000`
+**Technical University of Warsaw, PL.** Faculty of Architecture, *Master Degree*.
+
+`1999`
+**Technical University of Eindhoven, NL.** Architecture.
+
+`1996`
+**University of Detroit Mercy, USA.** Architecture, Data Science.
 
 ## / Awards / Accomplishments
 `2009 - 2021`
