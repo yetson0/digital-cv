@@ -16,29 +16,29 @@
 ---
 ## Professional summary
 
-*Motivated team player and fast learner with over decade of experience in lead, project management and business development is looking to engage into IT career. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork and open minded for any opportunities to develop further skills based on already possessed talents.*
+*Successful Leader and Team Player with more than decade experience in development, project management and IT is looking for more immersive opportunities in IT and Tech. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork and open minded for opportunities to fast track skills based on already possessed talents.*
 
 ## skills
-	py **---	| general, db, pandas, os
-	unix **---	| file operations, permissions, variables, streams, bash scripting, vim
-	js *----	| general script implementation, react
-	html,css **---	| webpage deployment, js integration, markdown, figma
+	py **---	| data wrangling, pandas, numpy, tkinter, os, db
+	unix **---	| file management, permissions, variables, streams, bash scripting, vim
+	js *----	| code and script implementation, react
+	html,css **---	| code and webpage deployment, js integration, markdown, figma
 	sql **---	| creation, selection, modification, nested queries
-	git ***--	| repositories operations
+	github **---	| gitflow workflow, managing repositories
 	cicd *----	| docker
 	z80 ***--	| assembly
 ### / cgi specialized
-	2d ****-	| advanced skills in adobe
+	2d ****-	| advanced skills in adobe package
 	3d ***--	| working knowledge of maya, 3dmax, sketchup
 	cad *****	| excellent tutor autocad knowledge
 	freehand ****-	| strong freehand drawing skills
 ### / other 
 	lead ****-	| advanced in leadership, experience managing 20+ teams
-	pm ****-	| experienced in project management, budget planning, supervising
-	agile ****-	| wide knowledge of jira/youtrack, agile scrum/kanban methodology, sys admin
+	pm ****-	| experienced in project management, budget planning, supervision
+	agile ****-	| wide knowledge of jira/youtrack, agile scrum/kanban methodology, scrum administration
 	legal ***--	| experienced in legal documents, agreements, contracts
-	gsuite ****-	| strong formulas knowledge, scripting, automation
-	ml *----	| general machine learning concepts, numpy, pandas, tensorflow
+	gsuite ***--| strong general knowledge, scripting, automation
+	ml *----	| general machine learning concepts
 
 ## Exp
 `2022 - cur`
