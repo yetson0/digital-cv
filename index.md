@@ -24,7 +24,7 @@
 	js *----     | code and script implementation, react
 	html **---   | htmls&css code and webpage deployment, js integration, markdown, figma
 	sql **---    | creation, selection, modification, nested queries
-	github **--- | gitflow, managing repositories
+	github **--- | workflow, managing repositories
 	cicd *----   | docker
 	z80 ***--    | assembly
 ### / cgi specialized
