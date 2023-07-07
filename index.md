@@ -115,7 +115,7 @@
 `2009-2021` Successfully lead and delivered *over 100* architectural multidisciplinary projects into life.
 
 `2010`, `2017`
-*Helicopter Pilot Licence;* Commercial licence, PPL/H & CPL/H , over 1k hours exp., 3k operations, 30h FTD, multiengine, turbine qualification.
+*Helicopter Pilot Licence;* Commercial licence, PPL/H & CPL/H , over 1k hours exp., 3k operations, 50h FTD, multiengine, turbine qualification.
 
 `2011` *Chartered Architect EU Licence*
 
