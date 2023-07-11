@@ -10,7 +10,7 @@
 
 <div id="webaddress">
 <a href="mailto:wlodosido@gmail.com">wlodosido@gmail.com</a><br>
-<a href="http://sidorczuk.com">my SDRC/arch website</a>
+<!-- <a href="http://sidorczuk.com">my SDRC/arch website</a> -->
 </div>
 
 ---
