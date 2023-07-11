@@ -16,24 +16,24 @@
 ---
 ## Professional summary
 
-*Successful Leader and Team Player with more than decade experience in development, project management and IT is looking for more immersive Tech opportunities. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork and open minded for opportunities to fast track skills based on already possessed talents.*
+*Successful Leader and Team Player with two decades of experience in development, project management and IT is looking for more immersive Tech opportunities. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork and open minded for opportunities to fast track skills based on already possessed talents.*
 
-## skills
+## Skills
 	py **---     | data wrangling, pandas, numpy, tkinter, os, db
 	unix **---   | file management, permissions, variables, streams, bash scripting, vim
 	js *----     | code and script implementation, react
-	html **---   | htmls&css code and webpage deployment, js integration, markdown, figma
+	html **---   | htmls, css code and webpage deployment, js integration, markdown, figma
 	sql **---    | creation, selection, modification, nested queries
 	github **--- | workflow, managing repositories
 	cicd *----   | docker
 	z80 ***--    | assembly
 ### / cgi specialized
-	2d ****-       | advanced skills in adobe package: photoshop, illustrator, indesign
-	3d ***--       | working knowledge of maya, 3dmax, sketchup
+	2d ****-       | advanced skills in adobe: photoshop, illustrator, indesign
+	3d ***--       | 3d working knowledge of maya, 3dmax, sketchup
 	cad *****      | excellent tutor autocad knowledge
 	freehand ****- | strong freehand drawing skills
 ### / other
-	lead ****-   | advanced in leadership, experience managing 20+ teams
+	lead ****-   | advanced in leadership, exp. managing 20+ teams
 	pm ****-     | experienced in project management, budget planning, supervision
 	agile ****-  | advanced jira/youtrack, agile scrum/kanban methodology admin
 	legal ***--  | experienced in legal documents, agreements, contracts
@@ -52,16 +52,21 @@
 
 ## Experience
 `2022-cur`
-**Vile Monarch** *Game Dev Meta Producer.* Game Production and dev team management, Localization content data wrangler, Scrum admin. Produced and delivered *Floodland* game in 2022.
+**Vile Monarch** *Game Dev Meta Producer.* Game Production and Dev Team management, Scrum admin and meta standards for company. Produced and delivered *Floodland* game, managed localization content.
 
 `2022-cur`
-**National Institute of Health**, *Senior Data Scientist.* Health data analysis, measuring society's risk factors, python programming. Cooperation with Warsaw University ICM Team on pandemic Covid-19 prepardness using agent-based modelling predictions.
+**National Institute of Health**, *Senior Data Scientist.* Health data analysis, society's risk factors, python programming. Cooperation with Warsaw University ICM Team on pandemic Covid-19 prepardness using agent-based modelling predictions.
+
+### /aviation
+`2010-2022`
+**Helicopter Pilot** _Commercial licence_. PPL/H, CPL/H, frozen ATPL/H, over 1000h fly time, 3k operations, 50h FTD, multiengine, turbine qualification.
 
 `2019-2021`
-**HEMS - Helicopter Emegrency Medical Services.** _Pilot, Specialist._ Helicopter operation flying, data management of flights and personnel ops.
+**HEMS - Helicopter Emegrency Medical Services.** _Pilot, Specialist_. Helicopter operational flying, data management for flights and personnel operations.
 
+### /architecture
 `2009-2021`
-**Comdesigne.** _Founder, Ceo, Head of Architects._ Successfully lead and delivered *over 100* architectural multidisciplinary projects, managed team of 20+.
+**Comdesigne.** _Founder, Ceo, Head Architect_. Successfully lead and delivered *over 100* architectural multidisciplinary projects, managed team of 20+.
 
 `2006-2008`
 **Broadway Malyan.** _Lead Architect, Concept Designer._ Lead group of 5+ designers. Provided services to international clients.
@@ -77,16 +82,16 @@
 
 ## Courses
 `2023`
-**Advanced Python Programming**, Warsaw School of Computer Science.
+**Advanced Python Programming**, _Warsaw School of Computer Science._
 
 `2023`
-**Advanced JavaScript Programming / React**, Warsaw School of Computer Science, 28h
+**Advanced JavaScript Programming / React**, _Warsaw School of Computer Science_; 28h, scope: modern methods of web application development within the React library, the most important assumptions and mechanisms of React.js, self-building web application using tools such as Create React App, React Hooks, React Router, Fetch API.
 
 `2023`
-**Cybersecurity**, Warsaw School of Computer Science, 18h
+**Cybersecurity**, _Warsaw School of Computer Science_; 18h, scope: basics of construction and operation of modern ICT networks, types and characteristics of malware, selected cyber threats, types and characteristics of selected network attacks, anti-virus and anti-spam, firewall and intrusion detection systems, selected algorithms of data encryption.
 
 `2022`
-**JavaScript Programming**, Warsaw School of Computer Science, 10h
+**JavaScript Programming**, _Warsaw School of Computer Science_; 10h, scope: learning the fundamentals of JavaScript: variables, loops, conditional statements, functions, use of arrays; working with the DOM tree (searching for tree elements, modifying, deleting, adding, styling, adding events); practical use of new elements of the language (ECMAScript 6+ standard) rest and spread operatiors, class syntax, arrow functions, destructuring, template strings.
 
 `2022`
 **Google Cloud Fundamentals: Core Infrastructure**, Google Cloud.
@@ -109,13 +114,10 @@
 `2007`
 **Rhino 3D**, *Advanced Computer Modeling*, course & certificate, Lemondim.
 
-## / Accomplishments
-`2021-2022` *Floodland*, game production and delivery.
+## Accomplishments
+`2021-2022` *Floodland*. Game production and delivery.
 
-`2009-2021` Successfully lead and delivered *over 100* architectural multidisciplinary projects into life.
-
-`2010`, `2017`
-*Helicopter Pilot Licence;* Commercial licence, PPL/H & CPL/H , over 1k hours exp., 3k operations, 50h FTD, multiengine, turbine qualification.
+`2009-2021` Successfully lead and delivered *over 100* architectural multidisciplinary projects into life, while numerous designed.
 
 `2011` *Chartered Architect EU Licence*
 
@@ -130,7 +132,7 @@
 `2013` *Architektura.Info, Publication;* Realisation of [Archiwum Państwowe w Radomiu.](https://architektura.info/architektura/polska_i_swiat/archiwum_panstwowe_w_radomiu)
 
 ## Research interests
-bigdata, gamedev, helicopters, trail running.
+bigdata, helicopters, trail running.
 
 <!-- ### Footer
 updated: Jul 2023 -->
