@@ -10,7 +10,7 @@
 
 <div id="webaddress">
 <a href="mailto:wlodosido@gmail.com">wlodosido@gmail.com</a><br>
-<!-- <a href="http://sidorczuk.com">my SDRC/arch website</a> -->
+<a href="http://sidorczuk.com">SDRC/arch website</a>
 </div>
 
 ---
@@ -37,7 +37,7 @@
 	pm ****-     | experienced in project management, budget planning, supervision
 	agile ****-  | advanced jira/youtrack, agile scrum/kanban methodology admin
 	legal ***--  | experienced in legal documents, agreements, contracts
- 	gSuite ***-- | strong knowledge of Google Workspace, scripting, automation
+	gSuite ***-- | strong knowledge of Google Workspace, scripting, automation
 	ml *----     | general machine learning concepts
 
 ## Education
