@@ -4,9 +4,10 @@
 |   ||---'|    `---.|   ||   |
 `---|`---'`---'`---'`---'`   '
 `---'                          
+
 -->
 
-# Wlodo Si // it CV
+# Wlodek Sidorczuk // it CV
 
 <div id="webaddress">
 <a href="mailto:wlodosido@gmail.com">wlodosido@gmail.com</a><br>
@@ -16,10 +17,16 @@
 ---
 ## Professional summary
 
-*Successful Leader and Team Player with two decades of experience in development, project management and IT is looking for more immersive Tech opportunities. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork and open minded for opportunities to fast track skills based on already possessed talents.*
+<!-- *Successful producer and leader with over decade of project management experience looking for new possibilities in dev market. Open minded for  opportunities to develop further coding skills based on enthusiasm and already possesed talents.* -->
+
+<!-- Successful leader with over 10 years experience in business development and project management is looking to engage into gamedev career. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork and open minded for any opportunities to develop further skills based on already possessed talents. -->
+
+<!-- *Motivated team player and fast learner with over decade of experience in lead, project management and business development is looking to engage into IT career. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork and open minded for any opportunities to develop further skills based on already possessed talents.* -->
+
+*Successful Leader and Team Player with two decades of experience in development, project management is looking for more immersive Tech opportunities. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork and open minded for opportunities to fast track IT skills based on already possessed talents.*
 
 ## Skills
-	py **---     | general, data analysis, pandas, numpy, tkinter, os, database
+	py **---     | general, data analysis, pandas, geopands, matplotlib, numpy, tkinter, os, database
 	unix **---   | file management, permissions, variables, streams, bash scripting, vim
 	js *----     | code and script implementation, react
 	html **---   | htmls, css code and webpage deployment, js integration, markdown, figma
@@ -52,10 +59,10 @@
 
 ## Experience
 `2022-2023`
-**Vile Monarch** *Game Dev Producer.* 2 years in Game Production and Dev Team management, Scrum admin and global company standards setup. Produced and delivered *Floodland* game, managed localization content with Python frameworks, Youtrack proficient.
+**Vile Monarch** *GameDev Producer.* Two years in game production and team management. Produced and delivered Floodland game, two prototypes, and few game pitches. Self managed game localization using Python and frameworks; Scrum/Agile administration and new setup for company standards. Youtrack proficient.
 
 `2022-cur`
-**National Institute of Health**, *Senior Data Scientist.* Health data analysis, society's risk factors, python programming. Cooperation with Warsaw University ICM Team on pandemic Covid-19 prepardness using agent-based modelling predictions.
+**National Institute of Health**, *Senior Data Scientist.* Health data analysis, research on society's risk factors using Python and data frameworks. Cooperation with Warsaw University ICM Team on pandemic Covid-19 preparedness using agent-based modelling predictions.
 
 ### /architecture
 `2009-2021`
@@ -115,7 +122,7 @@
 **Rhino 3D**, *Advanced Computer Modeling*, course & certificate, Lemondim.
 
 ## Accomplishments
-`2022` *Floodland*. Game Development, produced and delivered. Responsible for localization content.
+`2022` *Floodland*. Game development, produced and delivered to Steam. Responsible for team management, scrum/agile, localization content and meta company standards.
 
 `2009-2021` Successfully lead and delivered *over 100* architectural multidisciplinary projects into life, while numerous designed.
 
