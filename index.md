@@ -10,7 +10,7 @@
 
 <div id="webaddress">
 <a href="mailto:wlodosido@gmail.com">wlodosido@gmail.com</a><br>
-<a href="http://sidorczuk.com">SDRC/arch website</a>
+<!-- <a href="http://sidorczuk.com">SDRC/arch website</a> -->
 </div>
 
 ---
@@ -19,13 +19,13 @@
 *Successful Leader and Team Player with two decades of experience in development, project management and IT is looking for more immersive Tech opportunities. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork and open minded for opportunities to fast track skills based on already possessed talents.*
 
 ## Skills
-	py **---     | data wrangling, pandas, numpy, tkinter, os, db
+	py **---     | general, data analysis, pandas, numpy, tkinter, os, database
 	unix **---   | file management, permissions, variables, streams, bash scripting, vim
 	js *----     | code and script implementation, react
 	html **---   | htmls, css code and webpage deployment, js integration, markdown, figma
-	sql **---    | creation, selection, modification, nested queries
-	github **--- | workflow, managing repositories
-	cicd *----   | docker
+	sql *----    | management, creation, modification, nested queries
+	git **---    | workflow, managing repositories, gitflow
+	cicd *----   | docker containers
 	z80 ***--    | assembly
 ### / cgi specialized
 	2d ****-       | advanced skills in adobe: photoshop, illustrator, indesign
@@ -35,7 +35,7 @@
 ### / other
 	lead ****-   | advanced in leadership, exp. managing 20+ teams
 	pm ****-     | experienced in project management, budget planning, supervision
-	agile ****-  | advanced jira/youtrack, agile scrum/kanban methodology admin
+	agile ****-  | advanced jira/youtrack, agile scrum/kanban methodology, administration
 	legal ***--  | experienced in legal documents, agreements, contracts
 	gSuite ***-- | strong knowledge of Google Workspace, scripting, automation
 	ml *----     | general machine learning concepts
@@ -51,18 +51,11 @@
 **University of Detroit Mercy, USA.** Architecture, Data Science.
 
 ## Experience
-`2022-cur`
-**Vile Monarch** *Game Dev Meta Producer.* Game Production and Dev Team management, Scrum admin and meta standards for company. Produced and delivered *Floodland* game, managed localization content.
+`2022-2023`
+**Vile Monarch** *Game Dev Producer.* 2 years in Game Production and Dev Team management, Scrum admin and global company standards setup. Produced and delivered *Floodland* game, managed localization content with Python frameworks, Youtrack proficient.
 
 `2022-cur`
 **National Institute of Health**, *Senior Data Scientist.* Health data analysis, society's risk factors, python programming. Cooperation with Warsaw University ICM Team on pandemic Covid-19 prepardness using agent-based modelling predictions.
-
-### /aviation
-`2010-2022`
-**Helicopter Pilot** _Commercial licence_. PPL/H, CPL/H, frozen ATPL/H, over 1000h fly time, 3k operations, 50h FTD, multiengine, turbine qualification.
-
-`2019-2021`
-**HEMS - Helicopter Emegrency Medical Services.** _Pilot, Specialist_. Helicopter operational flying, data management for flights and personnel operations.
 
 ### /architecture
 `2009-2021`
@@ -80,9 +73,16 @@
 `1995`
 **Technical University of Warsaw.** _Unix system administrator._
 
+### /aviation
+`2010-2022`
+**Helicopter Pilot** _Commercial licence_. PPL/H, CPL/H, frozen ATPL/H, over 1000h fly time, 3k operations, 50h FTD, multiengine, turbine qualification.
+
+`2019-2021`
+**HEMS - Helicopter Emegrency Medical Services.** _Pilot, Specialist_. Helicopter operational flying, data management for flights and personnel operations.
+
 ## Courses
 `2023`
-**Advanced Python Programming**, _Warsaw School of Computer Science._
+**Python Programming**, _Warsaw School of Computer Science._; 31h, scope: variables and types, complex data types, basic constructs, exception handling, file handing, functions, object-oriented programming, TKinter package, data processing and visualization with numpy and matplotlib packages.
 
 `2023`
 **Advanced JavaScript Programming / React**, _Warsaw School of Computer Science_; 28h, scope: modern methods of web application development within the React library, the most important assumptions and mechanisms of React.js, self-building web application using tools such as Create React App, React Hooks, React Router, Fetch API.
@@ -115,11 +115,11 @@
 **Rhino 3D**, *Advanced Computer Modeling*, course & certificate, Lemondim.
 
 ## Accomplishments
-`2021-2022` *Floodland*. Game production and delivery.
+`2022` *Floodland*. Game Development, produced and delivered. Responsible for localization content.
 
 `2009-2021` Successfully lead and delivered *over 100* architectural multidisciplinary projects into life, while numerous designed.
 
-`2011` *Chartered Architect EU Licence*
+`2011` Chartered Architect, _EU Licence_
 
 `2005` Architectural competition, *JP2 Memorial*, 2nd Prize.
 
@@ -132,7 +132,7 @@
 `2013` *Architektura.Info, Publication;* Realisation of [Archiwum Państwowe w Radomiu.](https://architektura.info/architektura/polska_i_swiat/archiwum_panstwowe_w_radomiu)
 
 ## Research interests
-bigdata, helicopters, trail running.
+bigdata, ultra-light trekking, trail running.
 
 <!-- ### Footer
-updated: Jul 2023 -->
+updated: Aug 2023 -->
