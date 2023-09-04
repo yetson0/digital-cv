@@ -26,23 +26,23 @@
 *Successful Leader and Team Player with two decades of experience in development, project management is looking for more immersive Tech opportunities. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork and open minded for opportunities to fast track IT skills based on already possessed talents.*
 
 ## Skills
-	py **---     | general, data analysis, pandas, geopands, matplotlib, numpy, tkinter, os, database
+	py **---     | data analysis, pandas, geopands, matplotlib, numpy, tkinter, os, database
 	unix **---   | file management, permissions, variables, streams, bash scripting, vim
-	js *----     | code and script implementation, react
-	html **---   | htmls, css code and webpage deployment, js integration, markdown, figma
+	js **---     | code and script implementation, react
+	web **---    | htmls, css code and webpage deployment, js integration, markdown, figma
 	sql *----    | management, creation, modification, nested queries
 	git **---    | workflow, managing repositories, gitflow
-	cicd *----   | docker containers
+	devops *---- | docker, Google Cloud, linux
 	z80 ***--    | assembly
 ### / cgi specialized
 	2d ****-       | advanced skills in adobe: photoshop, illustrator, indesign
-	3d ***--       | 3d working knowledge of maya, 3dmax, sketchup
+	3d ***--       | maya, 3dmax, sketchup, shaders, rendering
 	cad *****      | excellent tutor autocad knowledge
 	freehand ****- | strong freehand drawing skills
 ### / other
 	lead ****-   | advanced in leadership, exp. managing 20+ teams
 	pm ****-     | experienced in project management, budget planning, supervision
-	agile ****-  | advanced jira/youtrack, agile scrum/kanban methodology, administration
+	agile ****-  | agile scrum/kanban methodology, advanced jira, youtrack admin
 	legal ***--  | experienced in legal documents, agreements, contracts
 	gSuite ***-- | strong knowledge of Google Workspace, scripting, automation
 	ml *----     | general machine learning concepts
@@ -59,7 +59,7 @@
 
 ## Experience
 `2022-2023`
-**Vile Monarch** *GameDev Producer.* Two years in game production and team management. Produced and delivered Floodland game, two prototypes, and few game pitches. Self managed game localization using Python and frameworks; Scrum/Agile administration and new setup for company standards. Youtrack proficient.
+**Vile Monarch** *GameDev Producer.* Two years in game production and team management. Produced and delivered Floodland game, prototypes and game pitches. Self managed game localization with Python and frameworks; Scrum/Agile administration and new company standards setup. Youtrack proficient.
 
 `2022-cur`
 **National Institute of Health**, *Senior Data Scientist.* Health data analysis, research on society's risk factors using Python and data frameworks. Cooperation with Warsaw University ICM Team on pandemic Covid-19 preparedness using agent-based modelling predictions.
@@ -75,7 +75,7 @@
 **Bose International.** _Project Designer._ Delivered worldwide large scale design services.
 
 `1996`
-**University of Detroit Mercy, USA.** _Computer lab assistant._
+**University of Detroit Mercy, USA.** _Computer lab assistant, Unix admin._
 
 `1995`
 **Technical University of Warsaw.** _Unix system administrator._
