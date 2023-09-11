@@ -26,26 +26,27 @@
 *Successful Leader and Team Player with two decades of experience in development, project management is looking for more immersive Tech opportunities. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork and open minded for opportunities to fast track IT skills based on already possessed talents.*
 
 ## Skills
-	py **---     | data analysis, pandas, geopands, matplotlib, numpy, tkinter, os, database
-	unix **---   | file management, permissions, variables, streams, bash scripting, vim
-	js **---     | code and script implementation, react
-	web **---    | htmls, css code and webpage deployment, js integration, markdown, figma
+	py **---     | data analysis, pandas, geopands, matplotlib, numpy, tkinter, os, streamlit
+	unix **---   | file management, permissions, variables, streams, bash scripting, vim, rsync
+	web **---    | html, css, webpage deployment, js integration, markdown, figma
+	ml *----     | llm, llama, openai, tensor
+	js *----     | code, script implementation, react.js
+	git **---    | workflow, managing repositories, gitflow, dvc
 	sql *----    | management, creation, modification, nested queries
-	git **---    | workflow, managing repositories, gitflow
-	devops *---- | docker, Google Cloud, linux
+	devops *---- | docker, gcloud, linux, rclone
+	docs ***--   | confluence, markdown, uml, mermaid, software documentation
 	z80 ***--    | assembly
 ### / cgi specialized
-	2d ****-       | advanced skills in adobe: photoshop, illustrator, indesign
+	2d ****-       | advanced in photoshop, illustrator, indesign, figma
 	3d ***--       | maya, 3dmax, sketchup, shaders, rendering
 	cad *****      | excellent tutor autocad knowledge
 	freehand ****- | strong freehand drawing skills
 ### / other
 	lead ****-   | advanced in leadership, exp. managing 20+ teams
 	pm ****-     | experienced in project management, budget planning, supervision
-	agile ****-  | agile scrum/kanban methodology, advanced jira, youtrack admin
+	agile ****-  | agile scrum/kanban methodology, jira, youtrack admin
 	legal ***--  | experienced in legal documents, agreements, contracts
 	gSuite ***-- | strong knowledge of Google Workspace, scripting, automation
-	ml *----     | general machine learning concepts
 
 ## Education
 `1993-2000`
