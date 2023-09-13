@@ -23,7 +23,7 @@
 
 <!-- *Motivated team player and fast learner with over decade of experience in lead, project management and business development is looking to engage into IT career. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork and open minded for any opportunities to develop further skills based on already possessed talents.* -->
 
-*Successful Leader and Team Player with two decades of experience in development, project management is looking for more immersive Tech opportunities. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork and open minded for opportunities to fast track IT skills based on already possessed talents.*
+*Successful Leader and Team Player with two decades of experience in development, project management is looking for more immersive Tech opportunities. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork and open minded to fast track IT skills based on already possessed talents.*
 
 ## Skills
 	py **---     | data analysis, pandas, geopands, matplotlib, numpy, tkinter, os, streamlit
