@@ -30,7 +30,7 @@
 	unix **---   | file management, permissions, variables, streams, bash scripting, vim, rsync
 	web **---    | html, css, webpage deployment, js integration, markdown, figma
 	ml *----     | llm, llama, openai, tensor
-	js *----     | code, script implementation, react.js
+	js **---     | code, script implementation, react.js
 	git **---    | workflow, managing repositories, gitflow, dvc
 	sql *----    | management, creation, modification, nested queries
 	devops *---- | docker, gcloud, linux, rclone
@@ -49,6 +49,9 @@
 	gSuite ***-- | strong knowledge of Google Workspace, scripting, automation
 
 ## Education
+`2022-2023`
+**Warsaw School of Computer Science** Python programming, Javascript, React, Cybersecurity courses. 
+
 `1993-2000`
 **Technical University of Warsaw, PL.** Faculty of Architecture and Urban Design, *Master Degree*.
 
@@ -60,14 +63,14 @@
 
 ## Experience
 `2022-2023`
-**Vile Monarch** *GameDev Producer.* Two years in game production and team management. Produced and delivered Floodland game, prototypes and game pitches. Self managed game localization with Python and frameworks; Scrum/Agile administration and new company standards setup. Youtrack proficient.
+**Vile Monarch** *GameDev Producer.* Two years in game production and team management in distributed model. Produced and delivered Floodland game, prototypes and game pitches. Managed game localization (python and frameworks). Responsible for Scrum/Agile administration, Youtrack proficient. Set new company standards with focus on process automatization, deployed time estimation system.
 
 `2022-cur`
-**National Institute of Health**, *Senior Data Scientist.* Health data analysis, research on society's risk factors using Python and data frameworks. Cooperation with Warsaw University ICM Team on pandemic Covid-19 preparedness using agent-based modelling predictions.
+**National Institute of Health**, *Senior Data Scientist.* Health Data analysis and research on various subjects including society risk factors. Cooperation with Warsaw University ICM Team on pandemic Covid-19 preparedness using agent-based modelling predictions. Programming using Python and Pandas, GeoPandas, Matplotlib frameworks, application frontend deployment.
 
 ### /architecture
 `2009-2021`
-**Comdesigne.** _Founder, Ceo, Head Architect_. Successfully lead and delivered *over 100* architectural multidisciplinary projects, managed team of 20+.
+**Comdesigne.** _Founder, Ceo, Head Architect_. Successfully delivered *over 100* architectural multidisciplinary projects, lead team of 20+ people, responsible of operations, finance, budget, contracts.
 
 `2006-2008`
 **Broadway Malyan.** _Lead Architect, Concept Designer._ Lead group of 5+ designers. Provided services to international clients.
@@ -140,7 +143,7 @@
 `2013` *Architektura.Info, Publication;* Realisation of [Archiwum Państwowe w Radomiu.](https://architektura.info/architektura/polska_i_swiat/archiwum_panstwowe_w_radomiu)
 
 ## Research interests
-bigdata, ultra-light trekking, trail running.
+bigdata, ultra-light trekking, trail running, Rust programming.
 
 <!-- ### Footer
-updated: Aug 2023 -->
+updated: Oct 2023 -->
