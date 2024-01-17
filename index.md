@@ -17,36 +17,30 @@
 ---
 ## Professional summary
 
-<!-- *Successful producer and leader with over decade of project management experience looking for new possibilities in dev market. Open minded for  opportunities to develop further coding skills based on enthusiasm and already possesed talents.* -->
-
-<!-- Successful leader with over 10 years experience in business development and project management is looking to engage into gamedev career. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork and open minded for any opportunities to develop further skills based on already possessed talents. -->
-
-<!-- *Motivated team player and fast learner with over decade of experience in lead, project management and business development is looking to engage into IT career. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork and open minded for any opportunities to develop further skills based on already possessed talents.* -->
-
-*Successful Leader and Team Player with two decades of experience in development, project management is looking for more immersive Tech opportunities. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork and open minded to fast track IT skills based on already possessed talents.*
+*Successful Leader and Team Player with two decades of experience in development, project management is looking for immersive Tech opportunity. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork and open minded to further develop IT skills based on already possessed talents.*
 
 ## Skills
 	py **---     | data analysis, pandas, geopands, matplotlib, numpy, tkinter, os, streamlit
 	unix **---   | file management, permissions, variables, streams, bash scripting, vim, rsync
 	web **---    | html, css, webpage deployment, js integration, markdown, figma
-	ml *----     | llm, llama, openai, tensor
-	js **---     | code, script implementation, react.js
+	js *----     | code, script implementation, react.js
+	db *----     | sql, nosql, data management, creation, modification, nested queries, json
 	git **---    | workflow, managing repositories, gitflow, dvc
-	sql *----    | management, creation, modification, nested queries
-	devops *---- | docker, gcloud, linux, rclone
-	docs ***--   | confluence, markdown, uml, mermaid, software documentation
+	ai *----     | large language models, llama, openai api, tensor
+	devops *---- | docker, gcloud, linux, rclone, aws
 	z80 ***--    | assembly
+	docs ***--   | software documentation, confluence, markdown, uml, mermaid
 ### / cgi specialized
 	2d ****-       | advanced in photoshop, illustrator, indesign, figma
 	3d ***--       | maya, 3dmax, sketchup, shaders, rendering
 	cad *****      | excellent tutor autocad knowledge
-	freehand ****- | strong freehand drawing skills
+	freehand ****- | strong freehand architectural drawing skills
 ### / other
-	lead ****-   | advanced in leadership, exp. managing 20+ teams
-	pm ****-     | experienced in project management, budget planning, supervision
-	agile ****-  | agile scrum/kanban methodology, jira, youtrack admin
-	legal ***--  | experienced in legal documents, agreements, contracts
-	gSuite ***-- | strong knowledge of Google Workspace, scripting, automation
+	lead ****-    | advanced in leadership, exp. managing 20+ teams
+	pm ****-      | experienced in project management, budget planning, supervision
+	agile ****-   | agile scrum/kanban methodology, jira, youtrack administration
+	legal ***--   | experienced in legal documents, agreements, contracts
+	gWrkspc ***-- | strong knowledge of Google Workspace, js scripting, automation
 
 ## Education
 `2022-2023`
@@ -62,8 +56,11 @@
 **University of Detroit Mercy, USA.** Architecture, Data Science.
 
 ## Experience
+`Nov 2023-curr`
+**Mighty-Koi** *Senior Producer.* Starting a new IP's vertical slice production, setting up roadmaps, implementation of team rules and Scrum methodologies in Jira; high level planning and daily team management. Creating structure and content for project wiki and GDD in Confluence. Devops and hardware architecture setup for Perforce and Unreal. Risk assesment and stakeholders raporting.
+
 `2022-2023`
-**Vile Monarch** *GameDev Producer.* Two years in game production and team management in distributed model. Produced and delivered Floodland game, prototypes and game pitches. Managed game localization (python and frameworks). Responsible for Scrum/Agile administration, Youtrack proficient. Set new company standards with focus on process automatization, deployed time estimation system.
+**Vile Monarch** *GameDev Producer.* Two years in game production and team management in distributed model. Produced and delivered Floodland game, prototypes and game pitches. Managed game localization (python and frameworks). Responsible for Scrum/Agile administration, Youtrack proficient. Set new company standards with focus on process automatization, deployed time estimation system. 
 
 `2022-cur`
 **National Institute of Health**, *Senior Data Scientist.* Health Data analysis and research on various subjects including society risk factors. Cooperation with Warsaw University ICM Team on pandemic Covid-19 preparedness using agent-based modelling predictions. Programming using Python and Pandas, GeoPandas, Matplotlib frameworks, application frontend deployment.
@@ -73,7 +70,7 @@
 **Comdesigne.** _Founder, Ceo, Head Architect_. Successfully delivered *over 100* architectural multidisciplinary projects, lead team of 20+ people, responsible of operations, finance, budget, contracts.
 
 `2006-2008`
-**Broadway Malyan.** _Lead Architect, Concept Designer._ Lead group of 5+ designers. Provided services to international clients.
+**Broadway Malyan.** _Lead Architect, Concept Designer._ Lead group of 5+ designers. Provided services to domestic and international clients.
 
 `2003-2006`
 **Bose International.** _Project Designer._ Delivered worldwide large scale design services.
@@ -104,6 +101,8 @@
 `2022`
 **JavaScript Programming**, _Warsaw School of Computer Science_; 10h, scope: learning the fundamentals of JavaScript: variables, loops, conditional statements, functions, use of arrays; working with the DOM tree (searching for tree elements, modifying, deleting, adding, styling, adding events); practical use of new elements of the language (ECMAScript 6+ standard) rest and spread operatiors, class syntax, arrow functions, destructuring, template strings.
 
+`Dec 2023` **Amazon AWS**. Devops workshop organized by Amazon. Cloud infrastructure setup with focus on Perforce.
+
 `2022`
 **Google Cloud Fundamentals: Core Infrastructure**, Google Cloud.
 
@@ -128,7 +127,9 @@
 ## Accomplishments
 `2022` *Floodland*. Game development, produced and delivered to Steam. Responsible for team management, scrum/agile, localization content and meta company standards.
 
-`2009-2021` Successfully lead and delivered *over 100* architectural multidisciplinary projects into life, while numerous designed.
+`2022` *Broad Peak (2022)* movie. Provided aviation & helicopter consultancy to the producers of Broad Peak movie.
+
+`2009-2021` Successfully lead and delivered *over 100* architectural multidisciplinary projects into life, while numerous designed. Designed and developed network of Costa Coffee shops, Hebe and other brands.
 
 `2011` Chartered Architect, _EU Licence_
 
@@ -143,7 +144,7 @@
 `2013` *Architektura.Info, Publication;* Realisation of [Archiwum Państwowe w Radomiu.](https://architektura.info/architektura/polska_i_swiat/archiwum_panstwowe_w_radomiu)
 
 ## Research interests
-bigdata, ultra-light trekking, trail running, Rust programming.
+bigdata, LLM in gamedev, ultra-light trekking, trail running, Rust programming.
 
 <!-- ### Footer
-updated: Oct 2023 -->
+updated: Jan 2024 -->
