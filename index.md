@@ -56,7 +56,7 @@
 **University of Detroit Mercy, USA.** Architecture, Data Science.
 
 ## Experience
-`Nov 2023-curr`
+`2024-curr`
 **Mighty-Koi** *Senior Producer.* Starting a new IP's vertical slice production, setting up roadmaps, implementation of team rules and Scrum methodologies in Jira; high level planning and daily team management. Creating structure and content for project wiki and GDD in Confluence. Devops and hardware architecture setup for Perforce and Unreal. Risk assessment and stakeholders reporting.
 
 `2022-2023`
