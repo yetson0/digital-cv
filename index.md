@@ -17,19 +17,19 @@
 ---
 ## Professional summary
 
-*Successful Leader and Team Player with two decades of experience in development, project management is looking for immersive Tech opportunity. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork and open minded to further develop IT skills based on already possessed talents.*
+*Successful Leader and Team Player with two decades of experience in development, project management is looking for immersive Tech opportunity. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork and open minded to further develop IT skills based on already possessed generalist talents.*
 
 ## Skills
-	py **---     | data analysis, pandas, geopands, matplotlib, numpy, tkinter, os, streamlit
-	unix **---   | file management, permissions, variables, streams, bash scripting, vim, rsync
+	py **---     | data analysis, pandas, geopandas, matplotlib, numpy, tkinter, os, streamlit
+	unix **---   | linux, administration, bash scripting, vim, rsync
+	git **---    | workflow, managing repositories, github, actions, gitflow, dvc
 	web **---    | html, css, webpage deployment, js integration, markdown, figma
-	js *----     | code, script implementation, react.js
-	db *----     | sql, nosql, data management, creation, modification, nested queries, json
-	git **---    | workflow, managing repositories, gitflow, dvc
+	js **---     | code, script implementation, react.js
+	db *----     | sql, nosql, mongodb, nested queries, json
 	ai *----     | large language models, llama, openai api, tensor
-	devops *---- | docker, gcloud, linux, rclone, aws
+	devops *---- | docker, compose, gcloud, rclone, aws
+	docs ***--   | software docs, confluence, markdown, uml, mermaid
 	z80 ***--    | assembly
-	docs ***--   | software documentation, confluence, markdown, uml, mermaid
 ### / cgi specialized
 	2d ****-       | advanced in photoshop, illustrator, indesign, figma
 	3d ***--       | maya, 3dmax, sketchup, shaders, rendering
@@ -40,7 +40,7 @@
 	pm ****-      | experienced in project management, budget planning, supervision
 	agile ****-   | agile scrum/kanban methodology, jira, youtrack administration
 	legal ***--   | experienced in legal documents, agreements, contracts
-	gWrkspc ***-- | strong knowledge of Google Workspace, js scripting, automation
+	gWrkspc ***-- | experienced in Google Workspace, js scripting, automation
 
 ## Education
 `2022-2023`
@@ -56,14 +56,17 @@
 **University of Detroit Mercy, USA.** Architecture, Data Science.
 
 ## Experience
-`2024-curr`
-**Mighty-Koi** *Senior Producer.* Starting a new IP's vertical slice production, setting up roadmaps, implementation of team rules and Scrum methodologies in Jira; high level planning and daily team management. Creating structure and content for project wiki and GDD in Confluence. Devops and hardware architecture setup for Perforce and Unreal. Risk assessment and stakeholders reporting.
+`2024-cur`
+**Mighty-Koi** *Senior Producer / Lead Producer* Responsible of The Night Wanderer IP VS production, setting roadmap, development environment, team rules and Scrum methodologies. High level and sprint planning w. daily team management. Creating setup and content for project documentation with deep understanding of admin role in Jira, Confluence and Slack. Devops and hardware architecture setup for Perforce/Unreal. Stakeholders reporting and risk management.
 
-`2022-2023`
-**Vile Monarch** *GameDev Producer.* Two years in game production and team management in distributed model. Produced and delivered Floodland game, prototypes and game pitches. Managed game localization (python and frameworks). Responsible for Scrum/Agile administration, Youtrack proficient. Set new company standards with focus on process automatization, deployed time estimation system. 
+`Oct 2023-cur`
+**Blockbit.es** *Junior Rust Developer / Project Manager.* Started Rust as developer and switched into PM support of Casper blockchain apps development. Co-managed Defdone websites, dockerized Fondant app and lead Unicorn Jump mobile game in Unity.
 
-`2022-cur`
-**National Institute of Health**, *Senior Data Scientist.* Health Data analysis and research on various subjects including society risk factors. Cooperation with Warsaw University ICM Team on pandemic Covid-19 preparedness using agent-based modelling predictions. Programming using Python and Pandas, GeoPandas, Matplotlib frameworks, application frontend deployment.
+`Mar 2022-cur`
+**National Institute of Public Health, Poland.**, *Senior Data Scientist / Software Developer / Solutions Architect.* Health Data analysis and research on various subjects including society risk factors. Cooperation with Warsaw University ICM Team on pandemic Covid-19 preparedness using agent-based modelling predictions. Designed & delivered dockerized app for Covid water alerting according to EU Project. Programming using Python and Pandas, GeoPandas, Matplotlib frameworks, application frontend, docker deployment.
+
+`2022-Oct 2023`
+**Vile Monarch** *GameDev Producer.* Solid two years in game production and team management in distributed model. Produced and delivered Floodland game, prototypes and game pitches. Developed game localization (python and frameworks). Responsible for Scrum/Agile administration, Youtrack proficient. Set new company standards with focus on process automatization, deployed time estimation system. 
 
 ### /architecture
 `2009-2021`
@@ -144,7 +147,7 @@
 `2013` *Architektura.Info, Publication;* Realisation of [Archiwum Państwowe w Radomiu.](https://architektura.info/architektura/polska_i_swiat/archiwum_panstwowe_w_radomiu)
 
 ## Research interests
-bigdata, LLM in gamedev, ultra-light trekking, trail running, Rust programming.
+bigdata, LLM in gamedev, ultra-light trekking, trail running, rust programming.
 
 <!-- ### Footer
-updated: Jan 2024 -->
+updated: Apr 2024 -->
