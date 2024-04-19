@@ -57,10 +57,10 @@
 
 ## Experience
 `2024-cur`
-**Mighty-Koi** *Senior Producer / Lead Producer* Responsible of The Night Wanderer IP VS production, setting roadmap, development environment, team rules and Scrum methodologies. High level and sprint planning w. daily team management. Creating setup and content for project documentation with deep understanding of admin role in Jira, Confluence and Slack. Devops and hardware architecture setup for Perforce/Unreal. Stakeholders reporting and risk management.
+**Mighty-Koi** *Senior Producer / Lead Producer* Responsible of The Night Wanderer game Vertical Slice production, setting roadmaps, milestones, development environment, team and rules; working in Scrum. High level and sprint planning w/ daily team management of 30 people. Creating setup and managing content for project, design and software documentation. Deep understanding and menthoring of Jira, Confluence and Slack as admin. Co-developed Devops setup for Perforce/Unreal. Stakeholders reporting and risk management.
 
 `Oct 2023-cur`
-**Blockbit.es** *Junior Rust Developer / Project Manager.* Started Rust as developer and switched into PM support of Casper blockchain apps development. Co-managed Defdone websites, dockerized Fondant app and lead Unicorn Jump mobile game in Unity.
+**Blockbit.es** *Junior Rust Developer / Tech Project Manager.* Started as Rust developer and moved into Tech PM support for Casper blockchain apps development. Co-developed Defdone websites, dockerized Fondant app and lead development for Unicorn Jump mobile game in Unity, managing team of 5.
 
 `Mar 2022-cur`
 **National Institute of Public Health, Poland.**, *Senior Data Scientist / Software Developer / Solutions Architect.* Health Data analysis and research on various subjects including society risk factors. Cooperation with Warsaw University ICM Team on pandemic Covid-19 preparedness using agent-based modelling predictions. Designed & delivered dockerized app for Covid water alerting according to EU Project. Programming using Python and Pandas, GeoPandas, Matplotlib frameworks, application frontend, docker deployment.
