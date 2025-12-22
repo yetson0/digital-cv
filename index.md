@@ -62,9 +62,6 @@
 `Nov 2023-Jul 2024`
 **Mighty-Koi** *Senior Producer / Lead Producer* Responsible of The Night Wanderer game Vertical Slice production, setting roadmaps, milestones, development environment, team and rules; working in Scrum. High level and sprint planning w/ daily team management of 30 people. Creating setup and managing content for project, design and software documentation. Deep understanding and menthoring of Jira, Confluence and Slack as admin. Co-developed Devops setup for Perforce/Unreal. Stakeholders reporting and risk management.
 
-`Oct 2023-Dec 2024`
-**Blockbit.es** *Junior Rust Developer / Tech Project Manager.* Initially as Rust developer and moved into Tech PM support for Casper blockchain apps development. Co-developed Defdone websites, dockerized Fondant app and lead development for Unicorn Jump mobile game in Unity, managing team of 5.
-
 `2022-Jan 2024`
 **National Institute of Public Health, Poland.**, *Senior Data Scientist / Software Developer / Solutions Architect.* Health Data analysis and research on various subjects including society risk factors. Cooperation with Warsaw University ICM Team on pandemic Covid-19 preparedness using agent-based modelling predictions. Designed & delivered dockerized app for Covid water alerting according to EU Project. Programming using Python and Pandas, GeoPandas, Matplotlib frameworks, application frontend, docker deployment.
 
