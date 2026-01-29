@@ -11,69 +11,70 @@
 
 <div id="webaddress">
 <a href="mailto:wlodosido@gmail.com">wlodosido@gmail.com</a><br>
-<!-- <a href="http://sidorczuk.com">SDRC/arch website</a> -->
+<a href="http://sidorczuk.com">SDRC/arch website</a>
 </div>
 
 ---
 ## Professional summary
 
-*Successful Leader and Team Player with two decades of experience in development, project management is looking for immersive Tech opportunity. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork and open minded to further develop IT skills based on already possessed generalist talents.*
+*Successful Leader and Team Player with over decade of experience in development, production and management is looking for immersive Tech and Gamedev opportunities. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork and open minded to further develop IT skills based on already possessed talents.*
 
 ## Skills
-	py **---     | data analysis, pandas, geopandas, matplotlib, numpy, tkinter, os, streamlit
-	unix **---   | linux, administration, bash scripting, vim, rsync
-	git **---    | workflow, managing repositories, github, actions, gitflow, dvc
-	web **---    | html, css, webpage deployment, js integration, markdown, figma
-	js **---     | code, script implementation, react.js
+	unix **---   | bash scripting, admin, vim, rsync
+	git **---    | gitflow, github, actions, workflows, dvc
+	devops *---- | docker, compose, terraform, gcloud,
+	py **---     | data analysis, pandas, geopandas, matplotlib, numpy, tkinter, streamlit
+	web **---    | html, css, deployment, js, figma
+	js **---     | code, script implementation, react
 	db *----     | sql, nosql, mongodb, nested queries, json
-	ai *----     | large language models, llama, openai api, tensor
-	devops *---- | docker, compose, gcloud, rclone, aws
+	ai *----     | llm, llama, openai api, tensor
 	docs ***--   | software docs, confluence, markdown, uml, mermaid
 	z80 ***--    | assembly
 ### / cgi specialized
-	2d ****-       | advanced in photoshop, illustrator, indesign, figma
-	3d ***--       | maya, 3dmax, sketchup, shaders, rendering
+	2d ****-       | advanced photoshop, illustrator, indesign, figma
+	3d ***--       | maya, 3dmax, sketchup, shaders, rendering, pipelines
 	cad *****      | excellent tutor autocad knowledge
 	freehand ****- | strong freehand architectural drawing skills
 ### / other
-	lead ****-    | advanced in leadership, exp. managing 20+ teams
+	lead ****-    | advanced in leadership, exp. managing 30+ teams
 	pm ****-      | experienced in project management, budget planning, supervision
-	agile ****-   | agile scrum/kanban methodology, jira, youtrack administration
+	agile ****-   | agile scrum/kanban, jira, youtrack admin
 	legal ***--   | experienced in legal documents, agreements, contracts
-	gWrkspc ***-- | experienced in Google Workspace, js scripting, automation
+	gWrkspc ***-- | experienced in Google Workspace, scripting, automation
 
 ## Education
-`2022-2023`
+<!-- `2022-2023` -->
 **Warsaw School of Computer Science** Python programming, Javascript, React, Cybersecurity courses. 
 
-`1993-2000`
+<!-- `1993-2000` -->
 **Technical University of Warsaw, PL.** Faculty of Architecture and Urban Design, *Master Degree*.
 
-`1999`
+<!-- `1999` -->
 **Technical University of Eindhoven, Netherlands.** Architecture.
 
-`1996`
+<!-- `1996` -->
 **University of Detroit Mercy, USA.** Architecture, Data Science.
 
 ## Experience
-`Jul 2024-cur`
-**Ziegler / Dornach** *Technical Producer / PM*
+`Jun 2024-cur`
+**Ziegler / Dornach** *Technical Managing Producer / PM*
+Managing DevOps and Software Development Teams to implement a unified authentication SSO access management within world-wide company. Distributed work and prorities among teams maintaining delivery continuity and live production instances. Managing external developing parties and budget. Delivered documentation with infrastructure, architectural diagraming and projects description. Optimized operational workflows, pipelines & implemented automations, for outcome deliveries with minimized issues.
 
 `Nov 2023-Aug 2024`
-**Mighty-Koi** *Senior Producer / Lead Producer* Responsible of The Night Wanderer game Vertical Slice production, setting roadmaps, milestones, development environment, team and rules; working in Scrum. High level and sprint planning w/ daily team management of 30 people. Creating setup and managing content for project, design and software documentation. Deep understanding and menthoring of Jira, Confluence and Slack as admin. Co-developed Devops setup for Perforce/Unreal. Stakeholders reporting and risk management.
+**Mighty-Koi** *Senior / Lead Gamedev Producer.* Responsible for The Night Wanderer game Vertical Slice production, setting roadmaps, milestones, development environment, team and rules; working in Scrum. High-level and sprint planning w/ daily team management of 50 people. Creating setup and managing content for project, design and software documentation. Deep understanding of processes and menthoring of Jira, Confluence and Slack as admin. Co-developed Devops setup in Perforce & Unreal enigine. Stakeholders reporting and risk management.
 
 `Oct 2023-Dec 2024`
-**Blockbit.es** *Junior Rust Developer / Tech Project Manager.* Initially as Rust developer and moved into Tech PM support for Casper blockchain apps development. Co-developed Defdone websites, dockerized Fondant app and lead development for Unicorn Jump mobile game in Unity, managing team of 5.
+**Blockbit.es** *Junior Rust Developer / Tech Project Manager.* Led production for Unicorn Jump mobile game development in Unity, managing team of 5. Started as Rust developer and switched to Technical PM for Casper blockchain application development. Co-developed websites, dockerized apps and 
 
 `2022-Jun 2024`
-**National Institute of Public Health, Poland.**, *Senior Data Scientist / Software Developer / Solutions Architect.* Health Data analysis and research on various subjects including society risk factors. Cooperation with Warsaw University ICM Team on pandemic Covid-19 preparedness using agent-based modelling predictions. Designed & delivered dockerized app for Covid water alerting according to EU Project. Programming using Python and Pandas, GeoPandas, Matplotlib frameworks, application frontend, docker deployment.
+**National Institute of Public Health, Poland.**, *Senior Data Scientist / Software Developer / Solutions Architect.* Health Data analysis and research on various subjects with society risk factors. Cooperation with Warsaw University ICM Team on pandemic Covid-19 preparedness using agent-based modelling predictions. Designed & delivered as an EU Project, a dockerized app for Covid alert system in water. Programming with Python and Pandas, GeoPandas, Matplotlib, application frontend, docker deployments.
 
 `2022-Oct 2023`
-**Vile Monarch** *GameDev Producer.* Solid two years in game production and team management in distributed model. Produced and delivered Floodland game, prototypes and game pitches. Developed game localization (python and frameworks). Responsible for Scrum/Agile administration, Youtrack proficient. Set new company standards with focus on process automatization, deployed time estimation system. 
+**Vile Monarch** *GameDev Producer.* Game production and team management in distributed model. Produced and sucessfully delivered Floodland game, prototypes and game pitches. Developed game localization (python and frameworks). Responsible for Scrum/Agile administration, Youtrack proficient. Set new company standards with focus on process automatization, deployed time estimation system. 
 
 ### /architecture
 `2009-2021`
-**Comdesigne.** _Founder, Ceo, Head Architect_. Successfully delivered *over 100* architectural multidisciplinary projects, lead team of 20+ people, responsible of operations, finance, budget, contracts.
+**Comdesigne.** _Founder, CEO, Head Architect_. Successfully delivered *over 100 architectural multidisciplinary projects*, lead team of 20+ people, responsible of operations, finance, budget, contracts.
 
 `2006-2008`
 **Broadway Malyan.** _Lead Architect, Concept Designer._ Lead group of 5+ designers. Provided services to domestic and international clients.
@@ -135,7 +136,7 @@
 
 `2022` *Broad Peak (2022)* movie. Provided aviation & helicopter consultancy to the producers of Broad Peak movie.
 
-`2009-2021` Successfully lead and delivered *over 100* architectural multidisciplinary projects into life, while numerous designed. Designed and developed network of Costa Coffee shops, Hebe and other brands.
+`2009-2021` Successfully lead and delivered *over 100* architectural multidisciplinary projects into life, while numerous designed. Designed and developed network of Costa Coffee shops, Hebe and other international brands.
 
 `2011` Chartered Architect, _EU Licence_
 
@@ -150,7 +151,6 @@
 `2013` *Architektura.Info, Publication;* Realisation of [Archiwum Państwowe w Radomiu.](https://architektura.info/architektura/polska_i_swiat/archiwum_panstwowe_w_radomiu)
 
 ## Research interests
-bigdata, LLM in gamedev, ultra-light trekking, trail running, rust programming.
+Bigdata, Gamedev community, UL trekking, trail running, climbing, Rust.
 
-<!-- ### Footer
-updated: Apr 2024 -->
+<!-- ### updated: Jan 2026 -->
