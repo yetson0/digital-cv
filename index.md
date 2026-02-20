@@ -17,30 +17,30 @@
 ---
 ## Professional summary
 
-*Successful Leader and Team Player with decade of experience in development, production and management is looking for immersive Tech and Gamedev opportunities. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork and open minded to further develop IT skills based on already possessed talents.*
+*Successful Leader and Team Player with experience in development, production and technical management is looking for immersive Tech and Gamedev opportunities. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork. Open minded to further develop IT skills based on already possessed talents.*
 
 ## Skills
 
 ### / soft
-	lead ****-    | advanced in leadership, exp. managing 50+ teams
-	pm ****-      | technical PM, budgeting, roadmaps, supervision
-	agile ****-   | jira, youtrack admin, agile scrum/kanban
-	docs ***--    | legal documents, agreements, contracts
-	gWrkspc ***-- | setup Google Workspace, scripting, automation
+	lead ****-    | advanced in leadership, managing 50+ teams
+	pm ****-      | technical PM, budget, roadmaps, supervision, reporting
+	agile ****-   | admin of jira, youtrack, agile scrum/kanban master
+	docs ***--    | legal documents, contracts, agreements
 
 ### / hard
 	unix **---    | bash scripting, admin, vim, rsync
 	git **---     | gitflow, github, actions, workflows, dvc
-	devops *----  | docker, docker-compose, terraform, gcloud
+	devops *----  | docker, docker-compose, terraform, aws, gcp
 	py **---      | data analysis, pandas, geopandas, matplotlib, numpy, tkinter, streamlit
 	web **---     | html, css, deployment, js, react, figma design
-	db *----      | sql, nosql, mongodb, nested queries, json
 	ai **---      | llm, ollama, opencode, chatbot development, api, tensor
+	db *----      | sql, nosql, mongodb, nested queries, json
 	blockchain *- | rust, casper
-	docs ***--    | software docs, confluence, markdown, uml, mermaid
+	docs ***--    | software documentation, confluence, markdown, diagraming uml, mermaid
 	z80 ***--     | assembly
+	gWrkspc **--- | setup Google Workspace, scripting, automation
 
-### / cgi specialized
+### / cgi
 	2d ****-   | advanced photoshop, illustrator, indesign, figma
 	3d ***--   | maya, 3dmax, sketchup, shaders, rendering, pipelines
 	cad *****  | excellent tutor autocad knowledge
@@ -48,8 +48,8 @@
 
 
 ## Experience
-`Jun 2024-cur`
-**Ziegler / Dornach** *Technical Managing Producer / PM*
+`Jun 2024-now`
+**Ziegler / Dornach** *Technical Managing Producer / Project Manager*
 Managing DevOps and Software Development operations to implement a unified authentication SSO access management within world-wide company. Distributed work and prorities among teams maintaining delivery continuity and live production instances. Managing external developing parties and budget. Delivered documentation for infrastructure, architecture and projects solutions. Optimized operational workflows, pipelines & implemented automations, for outcome deliveries with minimized issues. Part of the ISO 27001 acquisition process for the company.
 
 `Nov 2023-Aug 2024`
@@ -80,13 +80,14 @@ Managing DevOps and Software Development operations to implement a unified authe
 
 ### /aviation
 `2010-2022`
-**Helicopter Pilot** _Commercial licence_. PPL/H, CPL/H, frozen ATPL/H, over 1000h fly time, 3k operations, 50h FTD, multiengine, turbine qualification.
+**Helicopter Pilot** _Commercial licence_. PPL/H, CPL/H, frozen ATPL/H, over 1200h fly time, 3k operations, 70h FTD, multiengine, turbine qualification, rescue flights.
 
-**HEMS - Helicopter Emegrency Medical Services.** _Pilot, Specialist_. Helicopter operational flying, data management for flights and personnel operations.
+**HEMS - Helicopter Emegrency Medical Services.** _Pilot, Specialist_. Helicopter operational flights, data management for flights and personnel operations.
 
 
 ## Education
 **Warsaw School of Computer Science, PL.** Python programming, Javascript, React, Cybersecurity courses. 
+
 **various** Multiple IT courses. 
 
 **Technical University of Warsaw, PL.** Faculty of Architecture and Urban Design, *Master Degree.*
@@ -134,7 +135,7 @@ Managing DevOps and Software Development operations to implement a unified authe
 ## Accomplishments
 `2022` *Floodland*. Game development, produced and delivered to Steam. Responsible for team management, scrum/agile, localization content and meta company standards.
 
-`2022` *Broad Peak (2022)* movie. Provided aviation & helicopter consultancy to the producers of Broad Peak movie.
+`2022` *Broad Peak* Movie. Aviation & helicopter consultancy for the producing team. Organized specific typee of legacy helicopter rent for movie shots.
 
 `2009-2021` *Architectural multidisciplinary projects* Successfully lead and delivered *over 100* into life, numerous designed. Among Office, Retail, Housing is the network of Costa Coffee shops, Hebe and other international brands.
 
@@ -147,6 +148,6 @@ Publications: *Archdaily Magazine* Realisation of [City Home with a Touch of Fib
 *Architektura.Info* Realisation of [State Archive Radom.](https://architektura.info/architektura/polska_i_swiat/archiwum_panstwowe_w_radomiu)
 
 ## Research & interests
-Bigdata, Gamedev community, UL trekking, trail running, climbing, Rust.
+Bigdata, Gamedev Community, Ultralight trekking, Trail Running, Climbing, Rust language.
 
 <!-- ### updated: Feb 2026 -->
