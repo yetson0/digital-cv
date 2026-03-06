@@ -17,7 +17,7 @@
 ---
 ## Professional summary
 
-*Successful Leader and Team Player with experience in development, production and technical management is looking for immersive Tech and Gamedev opportunities. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork. Open minded to further develop IT skills based on already possessed talents.*
+*Successful Leader and Team Player with experience in development, production and technical management is looking for immersive Tech and Gamedev opportunities. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork, open minded to develop further IT skills based on already possessed talents.*
 
 ## Skills
 
@@ -25,7 +25,7 @@
 	lead ****-    | advanced in leadership, managing 50+ teams
 	pm ****-      | technical PM, budget, roadmaps, supervision, reporting
 	agile ****-   | admin of jira, youtrack, agile scrum/kanban master
-	docs ***--    | legal documents, contracts, agreements
+	docs ****-    | legal documents, contracts, agreements
 
 ### / hard
 	unix **---    | bash scripting, admin, vim, rsync
@@ -36,7 +36,7 @@
 	ai **---      | llm, ollama, opencode, chatbot development, api, tensor
 	db *----      | sql, nosql, mongodb, nested queries, json
 	blockchain *- | rust, casper
-	docs ***--    | software documentation, confluence, markdown, diagraming uml, mermaid
+	docs ***--    | software documentation, confluence, markdown, diagrams: uml, mermaid
 	z80 ***--     | assembly
 	gWrkspc **--- | setup Google Workspace, scripting, automation
 
@@ -50,19 +50,19 @@
 ## Experience
 `Jun 2024-now`
 **Ziegler / Dornach** *Technical Managing Producer / Project Manager*
-Managing DevOps and Software Development operations to implement a unified authentication SSO access management within world-wide company. Distributed work and prorities among teams maintaining delivery continuity and live production instances. Managing external developing parties and budget. Delivered documentation for infrastructure, architecture and projects solutions. Optimized operational workflows, pipelines & implemented automations, for outcome deliveries with minimized issues. Part of the ISO 27001 acquisition process for the company.
+DevOps and Software Development Teams Management. Implement an integrated authentication SSO access management system for both company and external clients. Distributed Work and Prioritization to maintain delivery continuity on live production instances. Managing external development partners and ensuring budget allocation is optimized. Documentation delivery for infrastructure, architecture, and project solutions. Optimized operational workflows and pipelines, providing automations to enhance outcome delivery while minimizing issues. Contributed to the ISO 27001 acquisition process.
 
 `Nov 2023-Aug 2024`
-**Mighty-Koi** *Senior / Lead Gamedev Producer.* Responsible for The Night Wanderer game Vertical Slice production, setting roadmaps, milestones, development environment, team and rules; working in Scrum. High-level and sprint planning w/ daily team management of 50 people. Creating setup and managing content for project, design and software documentation. Deep understanding of processes and menthoring of Jira, Confluence and Slack as admin. Co-developed Devops setup in Perforce & Unreal enigine. Stakeholders reporting and risk management.
+**Mighty-Koi** *Senior / Lead Gamedev Producer.* Responsible for the Vertical Slice The Night Wanderer game production. Roadmap, milestones, technical development environment setup and team rules creation. Working in Scrum. High-level and sprint planning w/ daily team management of 50 people. Creating setup and managing foundation content for project, design and software documentation. Deep understanding of pipelines, processes and menthoring. Admin for Jira, Confluence, Slack, Google Workspace for team. Co-developed Devops setup for Perforce & Unreal enigine. Stakeholders reporting and risk management.
 
 `Oct 2023-Dec 2024`
-**Blockbit.es** *Junior Rust Developer / Tech Project Manager.* Led production for Unicorn Jump mobile game development in Unity, managing team of 5. Started as Rust developer and switched to Technical PM for Casper blockchain application development. Co-developed websites, dockerized apps and 
+**Blockbit.es** *Junior Rust Developer / Tech Project Manager.* Led production for Unicorn Jump Mobile Game development in Unity, managing team of 5. Started as Rust developer to Technical PM for Casper blockchain application development. Co-developed websites, dockerized apps.
 
 `2022-Jun 2024`
-**National Institute of Public Health, Poland.**, *Senior Data Scientist / Software Developer / Solutions Architect.* Health Data analysis and research on various subjects with society risk factors. Cooperation with Warsaw University ICM Team on pandemic Covid-19 preparedness using agent-based modelling predictions. Designed & delivered as an EU Project, a dockerized app for Covid alert system in water. Programming with Python and Pandas, GeoPandas, Matplotlib, application frontend, docker deployments.
+**National Institute of Public Health, Poland.**, *Senior Data Scientist / Software Developer / Solutions Architect.* Health sector data analysis and research on various topics including population risk factors. Cooperation with ICM Warsaw University on pandemic Covid-19 preparedness using agent-based modelling predictions. Designed & delivered an EU Project: a dockerized app for Covid alerting system in waste water. Developing in  Python, Pandas, GeoPandas, Matplotlib, frontend and Docker.
 
 `2022-Oct 2023`
-**Vile Monarch** *GameDev Producer.* Game production and team management in distributed model. Produced and sucessfully delivered Floodland game, prototypes and game pitches. Developed game localization (python and frameworks). Responsible for Scrum/Agile administration, Youtrack proficient. Set new company standards with focus on process automatization, deployed time estimation system. 
+**Vile Monarch** *GameDev Producer.* Game Production and Team Management in distributed model. Produced and sucessfully delivered Floodland game, couple prototypes and game pitches. Developed game localization system (Python, Google Workspace). Responsible for Scrum/Agile administration, JetBrains Youtrack proficient. Set new company standards with focus on process automatization, deployed time estimation prediction system. 
 
 **University of Detroit Mercy, USA.** _Computer lab assistant, Unix admin._
 
@@ -150,4 +150,4 @@ Publications: *Archdaily Magazine* Realisation of [City Home with a Touch of Fib
 ## Research & interests
 Bigdata, Gamedev Community, Ultralight trekking, Trail Running, Climbing, Rust language.
 
-<!-- ### updated: Feb 2026 -->
+<!-- ### updated: Mar 2026 -->
