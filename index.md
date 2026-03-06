@@ -49,24 +49,33 @@
 
 ## Experience
 `Jun 2024-now`
-**Ziegler / Dornach** *Technical Managing Producer / Project Manager*
-DevOps and Software Development Teams Management. Integrated authentication SSO access management system for both company and external clients. Distributed Work and Prioritization to maintain delivery continuity on live production instances. Managing external development partners and ensuring budget allocation is optimized. Documentation delivery for infrastructure, architecture, and project solutions. Optimized operational workflows and pipelines, providing automations to enhance outcome delivery while minimizing issues. Contributed to the ISO 27001 acquisition process.
+**Ziegler / Dornach** *Technical Managing Producer / Project Manager.*
+
+DevOps and Software Development Teams Management. Integrated authentication SSO access management system for both company and external clients. Distributed work and prioritization to maintain delivery continuity on live production instances. Managing external development partners and ensuring budget allocation is optimized. Documentation delivery for infrastructure, architecture, and project solutions. Optimized operational workflows and pipelines, providing automations to enhance outcome delivery while minimizing issues. Contributed to the successful ISO27001 acquisition process for company.
 
 `Nov 2023-Aug 2024`
-**Mighty-Koi** *Senior / Lead Gamedev Producer.* Responsible for the Vertical Slice The Night Wanderer game production. Roadmap, milestones, technical development environment setup and team rules creation. Working in Scrum. High-level and sprint planning w/ daily team management of 50 people. Creating setup and managing foundation content for project, design and software documentation. Deep understanding of pipelines, processes and menthoring. Admin for Jira, Confluence, Slack, Google Workspace for team. Co-developed Devops setup for Perforce & Unreal enigine. Stakeholders reporting and risk management.
+**Mighty-Koi** *Senior / Lead Gamedev Producer.*
+
+Responsible for the Vertical Slice The Night Wanderer game production. Roadmap, milestones, technical development environment setup and team rules creation. Working in Scrum. High-level and sprint planning w/ daily team management of 50 people. Creating setup and managing foundation content for project, design and software documentation. Deep understanding of pipelines, processes and menthoring. Admin for Jira, Confluence, Slack, Google Workspace for team. Co-developed Devops setup for Perforce & Unreal enigine. Stakeholders reporting and risk management.
 
 `Oct 2023-Dec 2024`
-**Blockbit.es** *Junior Rust Developer / Tech Project Manager.* Led production for Unicorn Jump Mobile Game development in Unity, managing team of 5. Started as Rust developer to Technical PM for Casper blockchain application development. Co-developed websites, dockerized apps.
+**Blockbit.es** *Junior Rust Developer / Tech Project Manager.* 
+
+Led production for Unicorn Jump Mobile Game development in Unity, managing team of 5. Started as Rust developer to Technical PM for Casper blockchain application development. Co-developed websites, dockerized apps.
 
 `2022-Jun 2024`
-**National Institute of Public Health, Poland.**, *Senior Data Scientist / Software Developer / Solutions Architect.* Health sector data analysis and research on various topics including population risk factors. Cooperation with ICM Warsaw University on pandemic Covid-19 preparedness using agent-based modelling predictions. Designed & delivered an EU Project: a dockerized app for Covid alerting system in waste water. Developing in  Python, Pandas, GeoPandas, Matplotlib, frontend and Docker.
+**National Institute of Public Health, Poland.**, *Senior Data Scientist / Software Developer / Solutions Architect.* 
+
+Health sector data analysis and research on various topics including population risk factors. Cooperation with ICM Warsaw University on pandemic Covid-19 preparedness using agent-based modelling predictions. Designed & delivered an EU Project: a dockerized app for Covid alerting system in waste water. Developing in  Python, Pandas, GeoPandas, Matplotlib, frontend and Docker.
 
 `2022-Oct 2023`
-**Vile Monarch** *GameDev Producer.* Game Production and Team Management in distributed model. Produced and sucessfully delivered Floodland game, couple prototypes and game pitches. Developed game localization system (Python, Google Workspace). Responsible for Scrum/Agile administration, JetBrains Youtrack proficient. Set new company standards with focus on process automatization, deployed time estimation prediction system. 
+**Vile Monarch** *GameDev Producer.*
 
-**University of Detroit Mercy, USA.** _Computer lab assistant, Unix admin._
+Game Production and Team Management in distributed model. Produced and sucessfully delivered Floodland game, couple prototypes and game pitches. Developed game localization system (Python, Google Workspace). Responsible for Scrum/Agile administration, JetBrains Youtrack proficient. Set new company standards with focus on process automatization, deployed time estimation prediction system. 
 
-**Technical University of Warsaw, PL.** _Unix system administrator._
+**University of Detroit Mercy, USA.** _Computer lab, Unix administrator._
+
+**Technical University of Warsaw, PL.** _University Department Unix system administrator._
 
 
 ### /architecture
