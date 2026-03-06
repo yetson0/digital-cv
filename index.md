@@ -7,11 +7,11 @@
 
 -->
 
-# Wlodek Sidorczuk // it CV
+# Wlodo Sidorczuk // it CV
 
 <div id="webaddress">
 <a href="mailto:wlodosido@gmail.com">wlodosido@gmail.com</a><br>
-<a href="http://sidorczuk.com">SDRC/arch website</a>
+<!-- <a href="http://sidorczuk.com">SDRC/arch website</a> -->
 </div>
 
 ---
@@ -64,7 +64,7 @@ Responsible for the Vertical Slice The Night Wanderer game production. Roadmap, 
 Led production for Unicorn Jump Mobile Game development in Unity, managing team of 5. Started as Rust developer to Technical PM for Casper blockchain application development. Co-developed websites, dockerized apps.
 
 `2022-Jun 2024`
-**National Institute of Public Health, Poland.**, *Senior Data Scientist / Software Developer / Solutions Architect.* 
+**National Institute for Public Health, Poland.** *Senior Data Scientist / Software Developer / Solutions Architect.* 
 
 Health sector data analysis and research on various topics including population risk factors. Cooperation with ICM Warsaw University on pandemic Covid-19 preparedness using agent-based modelling predictions. Designed & delivered an EU Project: a dockerized app for Covid alerting system in waste water. Developing in  Python, Pandas, GeoPandas, Matplotlib, frontend and Docker.
 
