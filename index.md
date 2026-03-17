@@ -10,35 +10,36 @@
 # Wlodo Sidorczuk // it CV
 
 <div id="webaddress">
-<a href="mailto:wlodosido@gmail.com">wlodosido@gmail.com</a><br>
+<a href="http://sidorczuk.com/cv/cv.html">latest: cv update</a>
 <!-- <a href="http://sidorczuk.com">SDRC/arch website</a> -->
+<a href="mailto:wlodosido@gmail.com">wlodosido@gmail.com</a><br>
 </div>
 
 ---
 ## Professional summary
 
-*Successful Leader and Team Player with experience in development, production and technical management is looking for immersive Tech and Gamedev opportunities. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork, open minded to develop further IT skills based on already possessed talents.*
+*Successful Leader and Team Player with experience in Development, Gamedev production and Software technical management is looking for immersive Tech and Gamedev opportunities. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork, open minded to develop further IT skills based on already possessed talents.*
 
 ## Skills
 
 ### / soft
-	lead ****-    | advanced in leadership, managing 50+ teams
-	pm ****-      | technical PM, budget, roadmaps, supervision, reporting
-	agile ****-   | admin of jira, youtrack, agile scrum/kanban master
+	lead ****-    | leadership, managing 50+ devs
+	pm ****-      | technical PM, roadmaps, supervision, budget, reporting
+	agile ****-   | admin of jira, youtrack, agile scrum/kanban
 	docs ****-    | legal documents, contracts, agreements
 
 ### / hard
-	unix **---    | bash scripting, admin, vim, rsync
-	git **---     | gitflow, github, actions, workflows, dvc
+	unix **---    | bash scripting, admin
+	git ***--     | gitflow, github, actions, workflows, dvc
+	py **---      | data analysis, pandas, matplotlib, numpy, tkinter, streamlit
+	ai **---      | llm, ollama, opencode, chatbot development, api, tensor, agents, skills profiling
 	devops *----  | docker, docker-compose, terraform, aws, gcp
-	py **---      | data analysis, pandas, geopandas, matplotlib, numpy, tkinter, streamlit
-	web **---     | html, css, deployment, js, react, figma design
-	ai **---      | llm, ollama, opencode, chatbot development, api, tensor
-	db *----      | sql, nosql, mongodb, nested queries, json
+	web **---     | html, css, deployments, js, react, figma design
+	db *----      | sql, nosql, mongodb, json
 	blockchain *- | rust, casper
-	docs ***--    | software documentation, confluence, markdown, diagrams: uml, mermaid
+	docs ***--    | software documentation, confluence, markdown, diagraming uml, mermaid
 	z80 ***--     | assembly
-	gWrkspc **--- | setup Google Workspace, scripting, automation
+	gWrkspc **--- | Google Workspace setup for teams, scripting, automation
 
 ### / cgi
 	2d ****-   | advanced photoshop, illustrator, indesign, figma
@@ -49,33 +50,33 @@
 
 ## Experience
 `Jun 2024-now`
-**Ziegler / Dornach** *Technical Managing Producer / Project Manager.*
+**Ziegler Group / Dornach** *Technical Managing Producer / Project Manager. Full-time.*
 
-DevOps and Software Development Teams Management. Integrated authentication SSO access management system for both company and external clients. Distributed work and prioritization to maintain delivery continuity on live production instances. Managing external development partners and ensuring budget allocation is optimized. Documentation delivery for infrastructure, architecture, and project solutions. Optimized operational workflows and pipelines, providing automations to enhance outcome delivery while minimizing issues. Contributed to the successful ISO27001 acquisition process for company.
+DevOps and Software Development Teams Management. Integrated authentication SSO access management system for company and external clients. Release management, distributed work, prioritization to maintain delivery continuity on live production instances. Managing external contractors to ensure budget allocation is optimized. Documentation delivery for infrastructure, architecture, and project solutions. Optimized operational workflows and pipelines, providing automations to enhance outcome delivery while minimizing issues. Contributed to the success of ISO27001 certification.
 
 `Nov 2023-Aug 2024`
-**Mighty-Koi** *Senior / Lead Gamedev Producer.*
+**Mighty-Koi** *Senior / Lead Gamedev Producer. Full-time.*
 
-Responsible for the Vertical Slice The Night Wanderer game production. Roadmap, milestones, technical development environment setup and team rules creation. Working in Scrum. High-level and sprint planning w/ daily team management of 50 people. Creating setup and managing foundation content for project, design and software documentation. Deep understanding of pipelines, processes and menthoring. Admin for Jira, Confluence, Slack, Google Workspace for team. Co-developed Devops setup for Perforce & Unreal enigine. Stakeholders reporting and risk management.
+Production of the Vertical Slice for *The Night Wanderer* game. Initialized roadmap, milestones, technical development environment setup and team rules. High-level and sprint planning w/ daily team management of 50 developers. Release management, setup, managing scrum, content for project along with design and software documentation. Deep understanding of all production pipelines, processes and menthoring. Administrating Jira, Confluence, Slack, Google Workspace for team. Co-developed Devops setup for Perforce & Unreal enigine. Stakeholders reporting and risk management.
 
 `Oct 2023-Dec 2024`
-**Blockbit.es** *Junior Rust Developer / Tech Project Manager.* 
+**Blockbit.es** *Junior Rust Developer / Tech Project Manager. Part-time.* 
 
-Led production for Unicorn Jump Mobile Game development in Unity, managing team of 5. Started as Rust developer to Technical PM for Casper blockchain application development. Co-developed websites, dockerized apps.
+Lead of production for *The Unicorn Jump* mobile game development in Unity, managing team of 5. Started as Rust developer to Technical PM for Casper blockchain application development. Co-developed websites, dockerized apps.
 
 `2022-Jun 2024`
-**National Institute for Public Health, Poland.** *Senior Data Scientist / Software Developer / Solutions Architect.* 
+**National Institute for Public Health, Poland.** *Senior Data Scientist / Software Developer / Solutions Architect. Part-time.* 
 
-Health sector data analysis and research on various topics including population risk factors. Cooperation with ICM Warsaw University on pandemic Covid-19 preparedness using agent-based modelling predictions. Designed & delivered an EU Project: a dockerized app for Covid alerting system in waste water. Developing in  Python, Pandas, GeoPandas, Matplotlib, frontend and Docker.
+Health sector data analysis and research on various topics including population risk factors. Cooperation with ICM Warsaw University on pandemic Covid-19 preparedness using agent-based modelling predictions. Designed & delivered an EU Project: a dockerized application for Covid alerting system in waste waters. Development in  Python, Pandas, GeoPandas, Matplotlib and Docker.
 
-`2022-Oct 2023`
-**Vile Monarch** *GameDev Producer.*
+`Mar 2022-Oct 2023`
+**Vile Monarch** *GameDev Producer. Full-time.*
 
-Game Production and Team Management in distributed model. Produced and sucessfully delivered Floodland game, couple prototypes and game pitches. Developed game localization system (Python, Google Workspace). Responsible for Scrum/Agile administration, JetBrains Youtrack proficient. Set new company standards with focus on process automatization, deployed time estimation prediction system. 
+Game Production and Team Management in distributed model. Produced and sucessfully delivered *Floodland* game, couple prototypes and game pitches. Developed game localization system (Python, Google Workspace). Responsible for Scrum/Agile administration, JetBrains Youtrack proficient. Set new company standards with focus on process automatization, deployed time estimation prediction system. 
 
-**University of Detroit Mercy, USA.** _Computer lab, Unix administrator._
+**University of Detroit Mercy, USA.** _Unix Administrator, Architecture Computer Lab Assistant._ One Term responsibility tutoring students 3D modelling, Unix systems & accounts administration.
 
-**Technical University of Warsaw, PL.** _University Department Unix system administrator._
+**Technical University of Warsaw, PL.** _University's Department Unix system administrator, Lecturer._ Two years of Department's Unix systems management. Lecturer in the computer lab, assistance to students, cad proficency and 3D tutoring in the Architecture Department.
 
 
 ### /architecture
@@ -97,9 +98,9 @@ Game Production and Team Management in distributed model. Produced and sucessful
 ## Education
 **Warsaw School of Computer Science, PL.** Python programming, Javascript, React, Cybersecurity courses. 
 
-**various** Multiple IT courses. 
+**other** Multiple IT courses (see below).
 
-**Technical University of Warsaw, PL.** Faculty of Architecture and Urban Design, *Master Degree.*
+**Technical University of Warsaw, PL.** Faculty of Architecture and Urban Design, *Master's Degree.*
 
 **Technical University of Eindhoven, NL.** Architecture.
 
@@ -119,7 +120,7 @@ Game Production and Team Management in distributed model. Produced and sucessful
 `2022`
 **JavaScript Programming**, _Warsaw School of Computer Science_; 10h, scope: learning the fundamentals of JavaScript: variables, loops, conditional statements, functions, use of arrays; working with the DOM tree (searching for tree elements, modifying, deleting, adding, styling, adding events); practical use of new elements of the language (ECMAScript 6+ standard) rest and spread operatiors, class syntax, arrow functions, destructuring, template strings.
 
-`Dec 2023` **Amazon AWS**. Devops workshop organized by Amazon. Cloud infrastructure setup with focus on Perforce.
+`Dec 2023` **Amazon AWS Warsaw**. Workshop for Devops from Amazon AWS Warsaw Department. Cloud infrastructure setups for Gamedev and Perforce.
 
 `2022`
 **Google Cloud Fundamentals: Core Infrastructure**, Google Cloud.
