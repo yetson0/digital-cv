@@ -10,15 +10,17 @@
 # Wlodo Sidorczuk // it CV
 
 <div id="webaddress">
-<a href="http://sidorczuk.com/cv/cv.html">latest: cv update</a>
+contact:
 <!-- <a href="http://sidorczuk.com">SDRC/arch website</a> -->
 <a href="mailto:wlodosido@gmail.com">wlodosido@gmail.com</a><br>
+cv update:
+<a href="http://sidorczuk.com/cv/cv.html">latest</a>
 </div>
 
 ---
 ## Professional summary
 
-*Successful Leader and Team Player with experience in Development, Gamedev production and Software technical management is looking for immersive Tech and Gamedev opportunities. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork, open minded to develop further IT skills based on already possessed talents.*
+*Successful Leader and Team Player with experience in Development, Gamedev production and Software technical management is looking for immersive Tech and Gamedev opportunities. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork, open minded to develop any further skills based on already possessed talents.*
 
 ## Skills
 
@@ -29,7 +31,7 @@
 	docs ****-    | legal documents, contracts, agreements
 
 ### / hard
-	unix **---    | bash scripting, admin
+	unix **---    | bash, scripting, admin
 	git ***--     | gitflow, github, actions, workflows, dvc
 	py **---      | data analysis, pandas, matplotlib, numpy, tkinter, streamlit
 	ai **---      | llm, ollama, opencode, chatbot development, api, tensor, agents, skills profiling
