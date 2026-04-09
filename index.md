@@ -25,23 +25,23 @@ cv update:
 ## Skills
 
 ### / soft
-	lead ****-    | leadership, managing 50+ devs
+	lead ****-    | leadership, managing 50+ developers
 	pm ****-      | technical PM, roadmaps, supervision, budget, reporting
 	agile ****-   | admin of jira, youtrack, agile scrum/kanban
-	docs ****-    | legal documents, contracts, agreements
+	docs ****-    | contracts, legal documents, agreements
 
-### / hard
+### / it
 	unix **---    | bash, scripting, admin
 	git ***--     | gitflow, github, actions, workflows, dvc
 	py **---      | data analysis, pandas, matplotlib, numpy, tkinter, streamlit
-	ai **---      | llm, ollama, opencode, chatbot development, api, tensor, agents, skills profiling
+	ai **---      | llm, ollama, opencode, chatbots development, tensor, agents, skills profiling
 	devops *----  | docker, docker-compose, terraform, aws, gcp
 	web **---     | html, css, deployments, js, react, figma design
 	db *----      | sql, nosql, mongodb, json
 	blockchain *- | rust, casper
 	docs ***--    | software documentation, confluence, markdown, diagraming uml, mermaid
 	z80 ***--     | assembly
-	gWrkspc **--- | Google Workspace setup for teams, scripting, automation
+	gWrkspc **--- | Google Workspace, scripting, automation
 
 ### / cgi
 	2d ****-   | advanced photoshop, illustrator, indesign, figma
@@ -54,22 +54,22 @@ cv update:
 `Jun 2024-now`
 **Ziegler Group / Dornach** *Technical Managing Producer / Project Manager. Full-time.*
 
-DevOps and Software Development Teams Management. Integrated authentication SSO access management system for company and external clients. Release management, distributed work, prioritization to maintain delivery continuity on live production instances. Managing external contractors to ensure budget allocation is optimized. Documentation delivery for infrastructure, architecture, and project solutions. Optimized operational workflows and pipelines, providing automations to enhance outcome delivery while minimizing issues. Contributed to the success of ISO27001 certification.
+DevOps and Software Development Teams Management. Integrated authentication SSO access management system for company and external clients. Release management, distributed work, prioritization to maintain delivery continuity on live production instances. Managing external contractors to ensure budget allocation is optimized. Documentation delivery for infrastructure, architecture, and project solutions. Optimized operational workflows and pipelines, providing automations to enhance outcome delivery while minimizing issues. Contributed to the success of ISO27001 certification with Security Team.
 
 `Nov 2023-Aug 2024`
 **Mighty-Koi** *Senior / Lead Gamedev Producer. Full-time.*
 
-Production of the Vertical Slice for *The Night Wanderer* game. Initialized roadmap, milestones, technical development environment setup and team rules. High-level and sprint planning w/ daily team management of 50 developers. Release management, setup, managing scrum, content for project along with design and software documentation. Deep understanding of all production pipelines, processes and menthoring. Administrating Jira, Confluence, Slack, Google Workspace for team. Co-developed Devops setup for Perforce & Unreal enigine. Stakeholders reporting and risk management.
+Vertical slice production for *The Night Wanderer* game. Initialized roadmap, milestones, technical development environment setup and team rules. High-level and sprint planning w/ daily team management of 50 developers. Release management, setup, managing scrum, content for project along with design and software documentation. Deep understanding of all production pipelines, processes and menthoring. Administrating Jira, Confluence, Slack, Google Workspace for team. Co-developed Devops setup for Perforce & Unreal enigine. Stakeholders reporting and risk management.
 
 `Oct 2023-Dec 2024`
 **Blockbit.es** *Junior Rust Developer / Tech Project Manager. Part-time.* 
 
-Lead of production for *The Unicorn Jump* mobile game development in Unity, managing team of 5. Started as Rust developer to Technical PM for Casper blockchain application development. Co-developed websites, dockerized apps.
+Lead production of *The Unicorn Jump* mobile game developed in Unity. Managed multidisciplinary team of 5. Started as Rust developer then Technical PM. Provided services for Casper blockchain, application development. Co-developed various websites and docker containerized apps.
 
 `2022-Jun 2024`
 **National Institute for Public Health, Poland.** *Senior Data Scientist / Software Developer / Solutions Architect. Part-time.* 
 
-Health sector data analysis and research on various topics including population risk factors. Cooperation with ICM Warsaw University on pandemic Covid-19 preparedness using agent-based modelling predictions. Designed & delivered an EU Project: a dockerized application for Covid alerting system in waste waters. Development in  Python, Pandas, GeoPandas, Matplotlib and Docker.
+Data analysis and research on health and population risks factor topics. Cooperation with ICM Warsaw University on pandemic Covid-19 preparedness using agent-based modelling predictions. Designed & delivered EU Grant Project: a dockerized application for Covid alerting system in waste waters. Developed in Python, Pandas, GeoPandas, Matplotlib and Docker.
 
 `Mar 2022-Oct 2023`
 **Vile Monarch** *GameDev Producer. Full-time.*
@@ -145,6 +145,9 @@ Game Production and Team Management in distributed model. Produced and sucessful
 **Rhino 3D**, *Advanced Computer Modeling*, course & certificate, Lemondim.
 
 ## Accomplishments
+`2026` *Ziegler Group / Dornach*, supported successful ISO27001 certification.
+
+
 `2022` *Floodland*. Game development, produced and delivered to Steam. Responsible for team management, scrum/agile, localization content and meta company standards.
 
 `2022` *Broad Peak* Movie. Aviation & helicopter consultancy for the producing team. Organized specific typee of legacy helicopter rent for movie shots.
@@ -162,4 +165,4 @@ Publications: *Archdaily Magazine* Realisation of [City Home with a Touch of Fib
 ## Research & interests
 Bigdata, Gamedev Community, Ultralight trekking, Trail Running, Climbing, Rust language.
 
-<!-- ### updated: Mar 2026 -->
+<!-- ### updated: Apr 2026 -->
