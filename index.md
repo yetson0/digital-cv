@@ -84,6 +84,7 @@ Game Production and Team Management in distributed model. Produced and sucessful
 
 ### /architecture
 20y experience in architecture.
+
 `2009-2021`
 **Comdesigne.** _Founder, CEO, Head Architect, Managing Director_. Successfully delivered *over 100 architectural multidisciplinary projects*, lead team of 20+ people, responsible of operations, finance, budget, contracts.
 
@@ -94,6 +95,7 @@ Game Production and Team Management in distributed model. Produced and sucessful
 
 ### /aviation
 12y in helicopters industry.
+
 `2010-2022`
 **Helicopter Pilot** _Commercial licence._ PPL/H, CPL/H, frozen ATPL/H, over 1200h fly time, 3k operations, 70h FTD, multiengine, turbine qualification, rescue flights.
 
