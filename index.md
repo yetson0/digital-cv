@@ -7,6 +7,8 @@
 
 -->
 
+<!-- updated: Oct 2026 -->
+
 # Wlodo Sidorczuk // it CV
 
 <div id="webaddress">
@@ -20,33 +22,32 @@ cv update:
 ---
 ## Professional summary
 
-*Successful Leader and Team Player with experience in Development, Gamedev production and Software technical management is looking for immersive Tech and Gamedev opportunities. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork, open minded to develop any further skills based on already possessed talents.*
+*Successful Leader and Team Player with experience in Development, Gamedev Production and Technical Management is looking for immersive Tech opportunitiy. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork, open minded to develop any further skills based on already possessed talents.*
 
 ## Skills
 
 ### / soft
-	lead ****-    | leadership, managing 50+ developers
-	pm ****-      | technical PM, roadmaps, supervision, budget, reporting
-	agile ****-   | admin of jira, youtrack, agile scrum/kanban
-	docs ****-    | contracts, legal documents, agreements
+	lead ****-    | leadership, managing teams, agile, scrum
+	pm ****-      | technical PM, roadmaps, supervision, budget, business
+	agile ****-   | jira admin, youtrack, agile scrum/kanban approach
+	docs ****-    | contracts, legal documents, agreements, reports
 
 ### / it
 	unix **---    | bash, scripting, admin
 	git ***--     | gitflow, github, actions, workflows, dvc
-	py **---      | data analysis, pandas, matplotlib, numpy, tkinter, streamlit
-	ai **---      | llm, ollama, opencode, chatbots development, tensor, agents, skills profiling
+	py **---      | data science, pandas, matplotlib, numpy, streamlit
+	ai **---      | llm, ollama, opencode, tensor, agents, skills
 	devops *----  | docker, docker-compose, terraform, aws, gcp
 	web **---     | html, css, deployments, js, react, figma design
-	db *----      | sql, nosql, mongodb, json
-	blockchain *- | rust, casper
-	docs ***--    | software documentation, confluence, markdown, diagraming uml, mermaid
+	db *----      | sql, mongodb, json
+	docs ***--    | software, confluence, markdown, diagraming
 	z80 ***--     | assembly
-	gWrkspc **--- | Google Workspace, scripting, automation
+	gWrkspc **--- | Google Workspace, scripting, automation, groups
 
 ### / cgi
 	2d ****-   | advanced photoshop, illustrator, indesign, figma
 	3d ***--   | maya, 3dmax, sketchup, shaders, rendering, pipelines
-	cad *****  | excellent tutor autocad knowledge
+	cad *****  | autocad tutor knowledge
 	draw ****- | strong freehand architectural drawing skills
 
 
@@ -54,12 +55,12 @@ cv update:
 `Jun 2024-now`
 **Ziegler Group / Dornach** *Technical Managing Producer / Project Manager. Full-time.*
 
-DevOps and Software Development Teams Management. Integrated authentication SSO access management system for company and external clients. Release management, distributed work, prioritization to maintain delivery continuity on live production instances. Managing external contractors to ensure budget allocation is optimized. Documentation delivery for infrastructure, architecture, and project solutions. Optimized operational workflows and pipelines, providing automations to enhance outcome delivery while minimizing issues. Contributed to the success of ISO27001 certification with Security Team.
+IAM and DevOps Management, support to Software Development Teams on various projects. Integrated authentication access management system for the company and external clients. Release management, distributed work, prioritization to maintain delivery continuity on live production instances. Managing external contractors to ensure budget allocation is optimized. Documentation delivery for infrastructure, architecture, and project solutions. Optimized operational workflows and pipelines, providing automations to enhance outcome delivery while minimizing issues. Drove implementation process to establish AI services in teams. Contributed to the success of ISO27001 certification with Security Team.
 
 `Nov 2023-Aug 2024`
 **Mighty-Koi** *Senior / Lead Gamedev Producer. Full-time.*
 
-Vertical slice production for *The Night Wanderer* game. Initialized roadmap, milestones, technical development environment setup and team rules. High-level and sprint planning w/ daily team management of 50 developers. Release management, setup, managing scrum, content for project along with design and software documentation. Deep understanding of all production pipelines, processes and menthoring. Administrating Jira, Confluence, Slack, Google Workspace for team. Co-developed Devops setup for Perforce & Unreal enigine. Stakeholders reporting and risk management.
+Vertical slice production for *The Night Wanderer* game. Initialized project, roadmap, fundamental technical development setup with team processes. High-level and sprint planning and daily team management of 50 developers. Release management, setup, managing scrum, content for project along with design and software documentation. Deep understanding of all production pipelines, processes and menthoring. Administrating Jira, Confluence, Slack, Google Workspace for teams. Co-developed Devops setup for Perforce & Unreal enigine. Stakeholders reporting and risk management.
 
 `Oct 2023-Dec 2024`
 **Blockbit.es** *Junior Rust Developer / Tech Project Manager. Part-time.* 
@@ -76,13 +77,14 @@ Data analysis and research on health and population risks factor topics. Coopera
 
 Game Production and Team Management in distributed model. Produced and sucessfully delivered *Floodland* game, couple prototypes and game pitches. Developed game localization system (Python, Google Workspace). Responsible for Scrum/Agile administration, JetBrains Youtrack proficient. Set new company standards with focus on process automatization, deployed time estimation prediction system. 
 
-**University of Detroit Mercy, USA.** _Unix Administrator, Architecture Computer Lab Assistant._ One Term responsibility tutoring students 3D modelling, Unix systems & accounts administration.
+**University of Detroit Mercy, USA.** _Unix Administrator, Architecture Computer Lab Assistant._  Responsible for tutoring students 3D modelling and drafting, Unix systems & accounts administration.
 
 **Technical University of Warsaw, PL.** _University's Department Unix system administrator, Lecturer._ Two years of Department's Unix systems management. Lecturer in the computer lab, assistance to students, cad proficency and 3D tutoring in the Architecture Department.
 
 
 ### /architecture
 `2009-2021`
+20y experience in architecture.
 **Comdesigne.** _Founder, CEO, Head Architect, Managing Director_. Successfully delivered *over 100 architectural multidisciplinary projects*, lead team of 20+ people, responsible of operations, finance, budget, contracts.
 
 **Broadway Malyan.** _Lead Architect, Concept Designer._ Lead group of 5+ designers. Provided services to domestic and international clients.
@@ -92,13 +94,14 @@ Game Production and Team Management in distributed model. Produced and sucessful
 
 ### /aviation
 `2010-2022`
-**Helicopter Pilot** _Commercial licence_. PPL/H, CPL/H, frozen ATPL/H, over 1200h fly time, 3k operations, 70h FTD, multiengine, turbine qualification, rescue flights.
+12y in helicopters industry.
+**Helicopter Pilot** _Commercial licence._ PPL/H, CPL/H, frozen ATPL/H, over 1200h fly time, 3k operations, 70h FTD, multiengine, turbine qualification, rescue flights.
 
 **HEMS - Helicopter Emegrency Medical Services.** _Pilot, Specialist_. Helicopter operational flights, data management for flights and personnel operations.
 
 
 ## Education
-**Warsaw School of Computer Science, PL.** Python programming, Javascript, React, Cybersecurity courses. 
+**Warsaw School of Computer Science, PL.** Python programming, Javascript, React, Cybersecurity. 
 
 **other** Multiple IT courses (see below).
 
@@ -147,8 +150,7 @@ Game Production and Team Management in distributed model. Produced and sucessful
 ## Accomplishments
 `2026` *Ziegler Group / Dornach*, supported successful ISO27001 certification.
 
-
-`2022` *Floodland*. Game development, produced and delivered to Steam. Responsible for team management, scrum/agile, localization content and meta company standards.
+`2022` *Floodland*. Game release, produced and delivered to Steam. Responsible for team management, scrum/agile, localization content and meta company standards.
 
 `2022` *Broad Peak* Movie. Aviation & helicopter consultancy for the producing team. Organized specific typee of legacy helicopter rent for movie shots.
 
@@ -163,6 +165,5 @@ Publications: *Archdaily Magazine* Realisation of [City Home with a Touch of Fib
 *Architektura.Info* Realisation of [State Archive Radom.](https://architektura.info/architektura/polska_i_swiat/archiwum_panstwowe_w_radomiu)
 
 ## Research & interests
-Bigdata, Gamedev Community, Ultralight trekking, Trail Running, Climbing, Rust language.
+Bigdata, Gamedev Community, Ultralight trekking, trail running, mountaineering.
 
-<!-- ### updated: Apr 2026 -->
