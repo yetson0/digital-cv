@@ -9,7 +9,7 @@
 
 <!-- updated: Oct 2026 -->
 
-# Wlodo Sidorczuk // it CV
+# Wlodek Sidorczuk // it CV
 
 <div id="webaddress">
 contact:
@@ -53,9 +53,21 @@ cv update:
 
 ## Experience
 `Jun 2024-now`
-**Ziegler Group / Dornach** *Technical Managing Producer / Project Manager. Full-time.*
+**Ziegler Group / Dornach** *Technical Project Manager. Full-time.*
 
-IAM and DevOps Teams Management, support to Software Development Teams on various projects. Integrated authentication access management system for the company and external clients. Release management, distributed work, prioritization to maintain delivery continuity on live production instances. Managing external contractors to ensure budget allocation is optimized. Documentation delivery for infrastructure, architecture, and project solutions. Optimized operational workflows and pipelines, providing automations to enhance outcome delivery while minimizing issues. Drove implementation process to establish AI services usage in teams. Contributed to Security Team for the success of ISO27001 company's certification.
+Managed cross-functional DevOps and IAM engineering teams of internal and external developers to maintain high delivery throughput while optimizing contractor budgets.
+
+Identity & Access Management (IAM): Drove implementation process for enterprise-wide IAM and SSO solutions, securing single sign-on authentication and access control across internal company infrastructure and external client platforms.
+
+SDLC & Release Governance: Guardian to the Software Development Life Cycle (SDLC) processes across tools, CI/CD pipelines, and team workflows, release management for distributed systems to guarantee uptime across live production instances.
+
+AI Governance initiative: Managed the company-wide AI Governance framework from early adoption to production integration across company.
+
+Optimized operational workflows and processes, providing automations to enhance outcome delivery while minimizing issues. 
+
+Technical Documentation & Architecture: Authored comprehensive technical specifications, infrastructure diagrams, and project documentation to standardize best practices and streamline team onboarding.
+
+Contributed to Security Team for the success of ISO27001 company's certification.
 
 `Nov 2023-Aug 2024`
 **Mighty-Koi** *Senior / Lead Gamedev Producer. Full-time.*
