@@ -105,13 +105,13 @@ Game Production and Team Management in distributed model. Produced and sucessful
 ## Education
 **Warsaw School of Computer Science, PL.** Python programming, Javascript, React, Cybersecurity. 
 
-**other** Multiple IT courses (see below).
-
-**Technical University of Warsaw, PL.** Faculty of Architecture and Urban Design, *Master's Degree.*
+**Technical University of Warsaw, PL.** Faculty of Architecture and Urban Design, *Master's Degree, Engineer, Architect* diploma.
 
 **Technical University of Eindhoven, NL.** Architecture.
 
 **University of Detroit Mercy, USA.** Architecture, Data Science.
+
+**other** Multiple IT courses (see below).
 
 
 ## Courses & certificates
