@@ -29,20 +29,20 @@ cv update:
 ### / soft
 	lead ****-    | leadership, managing teams, agile, scrum
 	pm ****-      | technical PM, roadmaps, supervision, budget, business
-	agile ****-   | jira admin, youtrack, agile scrum/kanban approach
-	docs ****-    | contracts, legal documents, agreements, reports
+	agile ****-   | jira admin, youtrack, agile scrum/kanban, SDLC
+	docs ****-    | contracts, legal documents, agreements, reports, manuals
 
 ### / it
 	unix **---    | bash, scripting, admin
 	git ***--     | gitflow, github, actions, workflows, dvc
+	ai **---      | llm, ollama, opencode, tensor, agents, skills, governance
 	py **---      | data science, pandas, matplotlib, numpy, streamlit
-	ai **---      | llm, ollama, opencode, tensor, agents, skills
 	devops *----  | docker, docker-compose, terraform, aws, gcp
 	web **---     | html, css, deployments, js, react, figma design
 	db *----      | sql, mongodb, json
 	docs ***--    | software, confluence, markdown, diagraming
 	z80 ***--     | assembly
-	gWrkspc **--- | Google Workspace, scripting, automation, groups
+	gWrkspc **--- | Google Workspace, groups, scripting automation 
 
 ### / cgi
 	2d ****-   | advanced photoshop, illustrator, indesign, figma
@@ -59,11 +59,11 @@ Managed cross-functional DevOps and IAM engineering teams of internal and extern
 
 Identity & Access Management (IAM): Drove implementation process for enterprise-wide IAM and SSO solutions, securing single sign-on authentication and access control across internal company infrastructure and external client platforms.
 
-Software Development Life Cycle (SDLC): Guardian to the processes, tools, CI/CD pipelines, and team workflows, release management for distributed systems to guarantee uptime across live production instances.
+Software Development Life Cycle (SDLC): Guardian of the process, tools, CI/CD pipelines, and team workflows, release management for distributed systems to guarantee uptime across live production instances.
 
-AI Governance initiative: Managed the company-wide implementaions in AI frameworks from early adoption to production integration across company.
+AI Governance: Managed the company-wide initiative to implement AI solutions across company, from early adoption to production integration .
 
-Optimized operational workflows and processes, providing automations to enhance outcome delivery while minimizing issues. 
+Optimized operational workflows and processes within teams, providing automations for enhanced outcome and delivery while minimizing issues. 
 
 Technical Documentation & Architecture: Authored comprehensive technical specifications, infrastructure diagrams, and project documentation to standardize best practices and streamline team onboarding.
 
