@@ -55,7 +55,7 @@ cv update:
 `Jun 2024-now`
 **Ziegler Group / Dornach** *Technical Managing Producer / Project Manager. Full-time.*
 
-IAM and DevOps Management, support to Software Development Teams on various projects. Integrated authentication access management system for the company and external clients. Release management, distributed work, prioritization to maintain delivery continuity on live production instances. Managing external contractors to ensure budget allocation is optimized. Documentation delivery for infrastructure, architecture, and project solutions. Optimized operational workflows and pipelines, providing automations to enhance outcome delivery while minimizing issues. Drove implementation process to establish AI services in teams. Contributed to the success of ISO27001 certification with Security Team.
+IAM and DevOps Teams Management, support to Software Development Teams on various projects. Integrated authentication access management system for the company and external clients. Release management, distributed work, prioritization to maintain delivery continuity on live production instances. Managing external contractors to ensure budget allocation is optimized. Documentation delivery for infrastructure, architecture, and project solutions. Optimized operational workflows and pipelines, providing automations to enhance outcome delivery while minimizing issues. Drove implementation process to establish AI services usage in teams. Contributed to Security Team for the success of ISO27001 company's certification.
 
 `Nov 2023-Aug 2024`
 **Mighty-Koi** *Senior / Lead Gamedev Producer. Full-time.*
@@ -83,8 +83,8 @@ Game Production and Team Management in distributed model. Produced and sucessful
 
 
 ### /architecture
-`2009-2021`
 20y experience in architecture.
+`2009-2021`
 **Comdesigne.** _Founder, CEO, Head Architect, Managing Director_. Successfully delivered *over 100 architectural multidisciplinary projects*, lead team of 20+ people, responsible of operations, finance, budget, contracts.
 
 **Broadway Malyan.** _Lead Architect, Concept Designer._ Lead group of 5+ designers. Provided services to domestic and international clients.
@@ -93,8 +93,8 @@ Game Production and Team Management in distributed model. Produced and sucessful
 
 
 ### /aviation
-`2010-2022`
 12y in helicopters industry.
+`2010-2022`
 **Helicopter Pilot** _Commercial licence._ PPL/H, CPL/H, frozen ATPL/H, over 1200h fly time, 3k operations, 70h FTD, multiengine, turbine qualification, rescue flights.
 
 **HEMS - Helicopter Emegrency Medical Services.** _Pilot, Specialist_. Helicopter operational flights, data management for flights and personnel operations.
@@ -150,9 +150,9 @@ Game Production and Team Management in distributed model. Produced and sucessful
 ## Accomplishments
 `2026` *Ziegler Group / Dornach*, supported successful ISO27001 certification.
 
-`2022` *Floodland*. Game release, produced and delivered to Steam. Responsible for team management, scrum/agile, localization content and meta company standards.
+`2022` *Floodland*. Game release, produced and delivered to Steam. Responsible for team management, scrum/agile, localization content and meta company standards. [Link.](https://store.steampowered.com/app/1336180/Floodland/)
 
-`2022` *Broad Peak* Movie. Aviation & helicopter consultancy for the producing team. Organized specific typee of legacy helicopter rent for movie shots.
+`2022` *Broad Peak* Movie. Aviation & helicopter consultancy for the producing team. Organized specific typee of legacy helicopter rent for movie shots. [Link.](https://www.imdb.com/title/tt8983230/)
 
 `2009-2021` *Architectural multidisciplinary projects* Successfully lead and delivered *over 100* into life, numerous designed. Among Office, Retail, Housing is the network of Costa Coffee shops, Hebe and other international brands.
 
