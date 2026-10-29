@@ -9,7 +9,7 @@
 
 <!-- updated: Oct 2026 -->
 
-# Wlodek Sidorczuk // it CV
+# Wlodo Sidorczuk // it CV
 
 <div id="webaddress">
 contact:
@@ -59,9 +59,9 @@ Managed cross-functional DevOps and IAM engineering teams of internal and extern
 
 Identity & Access Management (IAM): Drove implementation process for enterprise-wide IAM and SSO solutions, securing single sign-on authentication and access control across internal company infrastructure and external client platforms.
 
-SDLC & Release Governance: Guardian to the Software Development Life Cycle (SDLC) processes across tools, CI/CD pipelines, and team workflows, release management for distributed systems to guarantee uptime across live production instances.
+Software Development Life Cycle (SDLC): Guardian to the processes, tools, CI/CD pipelines, and team workflows, release management for distributed systems to guarantee uptime across live production instances.
 
-AI Governance initiative: Managed the company-wide AI Governance framework from early adoption to production integration across company.
+AI Governance initiative: Managed the company-wide implementaions in AI frameworks from early adoption to production integration across company.
 
 Optimized operational workflows and processes, providing automations to enhance outcome delivery while minimizing issues. 
 
