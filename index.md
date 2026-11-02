@@ -95,7 +95,6 @@ Game Production and Team Management in distributed model. Produced and sucessful
 
 
 ### /architecture
-*Architecture experience (20y).*
 
 `2009-2021`
 **Comdesigne.** _Founder, CEO, Head Architect, Managing Director_. Successfully delivered *over 100 architectural multidisciplinary projects*, lead team of 20+ people, responsible of operations, finance, budget, contracts.
@@ -104,14 +103,16 @@ Game Production and Team Management in distributed model. Produced and sucessful
 
 **Bose International.** _Project Designer._ Delivered worldwide large scale design services.
 
+*Architecture experience (20y).*
 
 ### /aviation
-*Helicopters & Aviation industry experience (12y).*
 
 `2010-2022`
 **Helicopter Pilot** _Commercial licence._ PPL/H, CPL/H, frozen ATPL/H, over 1200h fly time, 3k operations, 70h FTD, multiengine, turbine qualification, rescue flights.
 
 **HEMS - Helicopter Emegrency Medical Services.** _Pilot, Specialist_. Helicopter operational flights, data management for flights and personnel operations.
+
+*Helicopters & Aviation industry experience (12y).*
 
 
 ## Education.
@@ -164,17 +165,19 @@ Game Production and Team Management in distributed model. Produced and sucessful
 ## Accomplishments
 `2026` *Ziegler Group / Dornach*, contributed to successful ISO27001 comapny's certification.
 
-`2022` *Floodland*. Game release, produced and delivered to Steam. Responsible for team management, scrum/agile, localization content and meta company standards. [Link.](https://store.steampowered.com/app/1336180/Floodland/)
+`2022` *Floodland*. Game release, produced and delivered to [Steam](https://store.steampowered.com/app/1336180/Floodland/). Responsible for team management, scrum/agile, localization content and meta company standards.
 
-`2022` *Broad Peak* Movie. Aviation & helicopter consultancy for the producing team. Organized specific typee of legacy helicopter rent for movie shots. [Link.](https://www.imdb.com/title/tt8983230/)
+`2021` *Broad Peak* Movie (2022). Aviation & helicopter consultancy for the producing team. Organized specific typee of legacy helicopter rent for movie shots. [Link.](https://www.imdb.com/title/tt8983230/)
 
-`2009-2021` *Architectural multidisciplinary projects* Successfully lead and delivered *over 100* into life, numerous designed. Among Office, Retail, Housing is the network of Costa Coffee shops, Hebe and other international brands.
+`2009-2021` *Architectural multidisciplinary projects* Successfully lead and delivered *over 100* into life, numerous designed. Covered: Office, Retail, Housing, Costa Coffee, Hebe and other international brands.
 
 `2011` *Chartered Architect*, _EU Licence_
 
-Architectural competitions: *JP2 Memorial*, 2nd Prizel *Arkonski Park*, 1st Honorable Mention; *Marszalkowska St.*, Main Prize.
+Architectural Competitions:
+1. *Marszalkowska Street Refurbishment*, Main Prize. 2. *JP2 Memorial*, 2nd Prize. 3. *Arkonski Park*, 1st Honorable Mention 
 
-Publications: *Archdaily Magazine* Realisation of [City Home with a Touch of Fibonacci.](https://www.archdaily.com/793466/home-town-with-a-touch-of-fibonacci-wlodek-sidorczuk?)
+Publications:
+*Archdaily Magazine* Realisation of [City Home with a Touch of Fibonacci.](https://www.archdaily.com/793466/home-town-with-a-touch-of-fibonacci-wlodek-sidorczuk?)
 
 *Architektura.Info* Realisation of [State Archive Radom.](https://architektura.info/architektura/polska_i_swiat/archiwum_panstwowe_w_radomiu)
 
