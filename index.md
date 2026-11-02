@@ -9,7 +9,7 @@
 
 <!-- updated: Oct 2026 -->
 
-# Wlodo Sidorczuk // it CV
+# Wlodo Sidorczuk // IT cv
 
 <div id="webaddress">
 contact:
@@ -20,11 +20,11 @@ cv update:
 </div>
 
 ---
-## Professional summary
+## Professional summary.
 
 *Successful Leader and Team Player with experience in Development, Gamedev Production and Technical Management is looking for immersive Tech opportunitiy. Has been delivering multidisciplinary services to international and domestic businesses. Proficient in lead, teamwork, open minded to develop any further skills based on already possessed talents.*
 
-## Skills
+## Skills.
 
 ### / soft
 	lead ****-    | leadership, managing teams, agile, scrum
@@ -51,9 +51,9 @@ cv update:
 	draw ****- | strong freehand architectural drawing skills
 
 
-## Experience
+## Experience.
 `Jun 2024-now`
-**Ziegler Group / Dornach** *Technical Project Manager. Full-time.*
+**Ziegler Group / Dornach** *Senior Technical Project Manager. Full-time (2y+)*
 
 Managed cross-functional DevOps and IAM engineering teams of internal and external developers to maintain high delivery throughput while optimizing contractor budgets.
 
@@ -70,32 +70,32 @@ Technical Documentation & Architecture: Authored comprehensive technical specifi
 Contributed to Security Team for the success of ISO27001 company's certification.
 
 `Nov 2023-Aug 2024`
-**Mighty-Koi** *Senior / Lead Gamedev Producer. Full-time.*
+**Mighty-Koi** *Lead Senior Gamedev Producer. Full-time (~1y)*
 
 Vertical slice production for *The Night Wanderer* game. Initialized project, roadmap, fundamental technical development setup with team processes. High-level and sprint planning and daily team management of 50 developers. Release management, setup, managing scrum, content for project along with design and software documentation. Deep understanding of all production pipelines, processes and menthoring. Administrating Jira, Confluence, Slack, Google Workspace for teams. Co-developed Devops setup for Perforce & Unreal enigine. Stakeholders reporting and risk management.
 
 `Oct 2023-Dec 2024`
-**Blockbit.es** *Junior Rust Developer / Tech Project Manager. Part-time.* 
+**Blockbit.es** *Tech Project Manager / Junior Rust Developer. Part-time. (1y)*
 
 Lead production of *The Unicorn Jump* mobile game developed in Unity. Managed multidisciplinary team of 5. Started as Rust developer then Technical PM. Provided services for Casper blockchain, application development. Co-developed various websites and docker containerized apps.
 
 `2022-Jun 2024`
-**National Institute for Public Health, Poland.** *Senior Data Scientist / Software Developer / Solutions Architect. Part-time.* 
+**National Institute for Public Health, Poland.** *Senior Data Scientist / Software Developer / Solutions Architect. Part-time (2.5y)* 
 
 Data analysis and research on health and population risks factor topics. Cooperation with ICM Warsaw University on pandemic Covid-19 preparedness using agent-based modelling predictions. Designed & delivered EU Grant Project: a dockerized application for Covid alerting system in waste waters. Developed in Python, Pandas, GeoPandas, Matplotlib and Docker.
 
-`Mar 2022-Oct 2023`
-**Vile Monarch** *GameDev Producer. Full-time.*
+`2022-Oct 2023`
+**Vile Monarch** *GameDev Producer. Full-time (~2y)*
 
-Game Production and Team Management in distributed model. Produced and sucessfully delivered *Floodland* game, couple prototypes and game pitches. Developed game localization system (Python, Google Workspace). Responsible for Scrum/Agile administration, JetBrains Youtrack proficient. Set new company standards with focus on process automatization, deployed time estimation prediction system. 
+Game Production and Team Management in distributed model. Produced and sucessfully released *Floodland* game, couple prototypes and game pitches. Developed game localization system (Python, Google Workspace). Responsible for Scrum/Agile administration, JetBrains Youtrack proficient. Set new company standards with focus on process automatization, deployed time estimation prediction system. 
 
-**University of Detroit Mercy, USA.** _Unix Administrator, Architecture Computer Lab Assistant._  Responsible for tutoring students 3D modelling and drafting, Unix systems & accounts administration.
+**University of Detroit Mercy, USA.** _Unix Administrator, Architecture Computer Lab Assistant._  Responsible for tutoring students 3D modelling and drafting, Unix systems & accounts management.
 
-**Technical University of Warsaw, PL.** _University's Department Unix system administrator, Lecturer._ Two years of Department's Unix systems management. Lecturer in the computer lab, assistance to students, cad proficency and 3D tutoring in the Architecture Department.
+**Technical University of Warsaw, PL.** _University's Department Unix system administrator, Lecturer (2y)_ University's department Unix systems admin. Lecturer in the computer lab, assistance to students, CAD proficency and 3D tutoring in the Architecture Department.
 
 
 ### /architecture
-20y experience in architecture.
+*Architecture experience (20y).*
 
 `2009-2021`
 **Comdesigne.** _Founder, CEO, Head Architect, Managing Director_. Successfully delivered *over 100 architectural multidisciplinary projects*, lead team of 20+ people, responsible of operations, finance, budget, contracts.
@@ -106,7 +106,7 @@ Game Production and Team Management in distributed model. Produced and sucessful
 
 
 ### /aviation
-12y in helicopters industry.
+*Helicopters & Aviation industry experience (12y).*
 
 `2010-2022`
 **Helicopter Pilot** _Commercial licence._ PPL/H, CPL/H, frozen ATPL/H, over 1200h fly time, 3k operations, 70h FTD, multiengine, turbine qualification, rescue flights.
@@ -114,7 +114,7 @@ Game Production and Team Management in distributed model. Produced and sucessful
 **HEMS - Helicopter Emegrency Medical Services.** _Pilot, Specialist_. Helicopter operational flights, data management for flights and personnel operations.
 
 
-## Education
+## Education.
 **Warsaw School of Computer Science, PL.** Python programming, Javascript, React, Cybersecurity. 
 
 **Technical University of Warsaw, PL.** Faculty of Architecture and Urban Design, *Master's Degree, Engineer, Architect* diploma.
@@ -123,10 +123,10 @@ Game Production and Team Management in distributed model. Produced and sucessful
 
 **University of Detroit Mercy, USA.** Architecture, Data Science.
 
-**other** Multiple IT courses (see below).
+*multiple IT courses (see below)*
 
 
-## Courses & certificates
+## Courses & certificates.
 `2023`
 **Python Programming**, _Warsaw School of Computer Science._; 31h, scope: variables and types, complex data types, basic constructs, exception handling, file handing, functions, object-oriented programming, TKinter package, data processing and visualization with numpy and matplotlib packages.
 
@@ -159,10 +159,10 @@ Game Production and Team Management in distributed model. Produced and sucessful
 `2021`
 **Crash Course on Pyton**, Google Coursera certificate.
 
-**Rhino 3D**, *Advanced Computer Modeling*, course & certificate, Lemondim.
+**Advanced Computer Modeling**, *Rhino 3D*, course & certification, Lemondim, Warsaw.
 
 ## Accomplishments
-`2026` *Ziegler Group / Dornach*, supported successful ISO27001 certification.
+`2026` *Ziegler Group / Dornach*, contributed to successful ISO27001 comapny's certification.
 
 `2022` *Floodland*. Game release, produced and delivered to Steam. Responsible for team management, scrum/agile, localization content and meta company standards. [Link.](https://store.steampowered.com/app/1336180/Floodland/)
 
