@@ -53,7 +53,7 @@ cv update:
 
 ## Experience.
 `Jun 2024-now`
-**Ziegler Group / Dornach** *Senior Technical Project Manager. Full-time (2y+)*
+**Ziegler Group / Dornach** *Senior Technical Project Manager. Full-time (2.5y+)*
 
 Managed cross-functional DevOps and IAM engineering teams of internal and external developers to maintain high delivery throughput while optimizing contractor budgets.
 
@@ -70,22 +70,22 @@ Technical Documentation & Architecture: Authored comprehensive technical specifi
 Contributed to Security Team for the success of ISO27001 company's certification.
 
 `Nov 2023-Aug 2024`
-**Mighty-Koi** *Lead Senior Gamedev Producer. Full-time (~1y)*
+**Mighty-Koi** *Lead Senior Gamedev Producer. Full-time (1y)*
 
 Vertical slice production for *The Night Wanderer* game. Initialized project, roadmap, fundamental technical development setup with team processes. High-level and sprint planning and daily team management of 50 developers. Release management, setup, managing scrum, content for project along with design and software documentation. Deep understanding of all production pipelines, processes and menthoring. Administrating Jira, Confluence, Slack, Google Workspace for teams. Co-developed Devops setup for Perforce & Unreal enigine. Stakeholders reporting and risk management.
-
-`Oct 2023-Dec 2024`
-**Blockbit.es** *Tech Project Manager / Junior Rust Developer. Part-time. (1y)*
-
-Lead production of *The Unicorn Jump* mobile game developed in Unity. Managed multidisciplinary team of 5. Started as Rust developer then Technical PM. Provided services for Casper blockchain, application development. Co-developed various websites and docker containerized apps.
 
 `2022-Jun 2024`
 **National Institute for Public Health, Poland.** *Senior Data Scientist / Software Developer / Solutions Architect. Part-time (2.5y)* 
 
 Data analysis and research on health and population risks factor topics. Cooperation with ICM Warsaw University on pandemic Covid-19 preparedness using agent-based modelling predictions. Designed & delivered EU Grant Project: a dockerized application for Covid alerting system in waste waters. Developed in Python, Pandas, GeoPandas, Matplotlib and Docker.
 
+`Oct 2023-Dec 2024`
+**Blockbit.es** *Tech Project Manager / Junior Rust Developer. Part-time. (1y)*
+
+Lead production of *The Unicorn Jump* mobile game developed in Unity. Managed multidisciplinary team of 5. Started as Rust developer then Technical PM. Provided services for Casper blockchain, application development. Co-developed various websites and docker containerized apps.
+
 `2022-Oct 2023`
-**Vile Monarch** *GameDev Producer. Full-time (~2y)*
+**Vile Monarch** *GameDev Producer. Full-time (2y)*
 
 Game Production and Team Management in distributed model. Produced and sucessfully released *Floodland* game, couple prototypes and game pitches. Developed game localization system (Python, Google Workspace). Responsible for Scrum/Agile administration, JetBrains Youtrack proficient. Set new company standards with focus on process automatization, deployed time estimation prediction system. 
 
@@ -103,7 +103,7 @@ Game Production and Team Management in distributed model. Produced and sucessful
 
 **Bose International.** _Project Designer._ Delivered worldwide large scale design services.
 
-*Architecture experience (20y).*
+Architecture experience (20y).
 
 ### /aviation
 
@@ -112,35 +112,34 @@ Game Production and Team Management in distributed model. Produced and sucessful
 
 **HEMS - Helicopter Emegrency Medical Services.** _Pilot, Specialist_. Helicopter operational flights, data management for flights and personnel operations.
 
-*Helicopters & Aviation industry experience (12y).*
-
+Helicopters & Aviation Industry experience (12y).
 
 ## Education.
-**Warsaw School of Computer Science, PL.** Python programming, Javascript, React, Cybersecurity. 
+**Warsaw School of Computer Science.** Python programming, Javascript, React, Cybersecurity. 
 
-**Technical University of Warsaw, PL.** Faculty of Architecture and Urban Design, *Master's Degree, Engineer, Architect* diploma.
+**Technical University of Warsaw, Poland.** Faculty of Architecture and Urban Design, *Master's Degree, Engineer, Architect* diploma.
 
-**Technical University of Eindhoven, NL.** Architecture.
+**Technical University of Eindhoven, Netherlands.** Architecture.
 
-**University of Detroit Mercy, USA.** Architecture, Data Science.
+**University of Detroit Mercy, United States (USA).** Architecture, Data Science.
 
 *multiple IT courses (see below)*
 
 
 ## Courses & certificates.
 `2023`
-**Python Programming**, _Warsaw School of Computer Science._; 31h, scope: variables and types, complex data types, basic constructs, exception handling, file handing, functions, object-oriented programming, TKinter package, data processing and visualization with numpy and matplotlib packages.
+**Python Programming**, _Warsaw School of Computer Science._; Scope: variables and types, complex data types, basic constructs, exception handling, file handing, functions, object-oriented programming, TKinter package, data processing and visualization with numpy and matplotlib packages.
 
 `2023`
-**Advanced JavaScript Programming / React**, _Warsaw School of Computer Science_; 28h, scope: modern methods of web application development within the React library, the most important assumptions and mechanisms of React.js, self-building web application using tools such as Create React App, React Hooks, React Router, Fetch API.
+**Advanced JavaScript Programming / React**, _Warsaw School of Computer Science_; Scope: modern methods of web application development within the React library, the most important assumptions and mechanisms of React.js, self-building web application using tools such as Create React App, React Hooks, React Router, Fetch API.
 
 `2023`
-**Cybersecurity**, _Warsaw School of Computer Science_; 18h, scope: basics of construction and operation of modern ICT networks, types and characteristics of malware, selected cyber threats, types and characteristics of selected network attacks, anti-virus and anti-spam, firewall and intrusion detection systems, selected algorithms of data encryption.
+**Cybersecurity**, _Warsaw School of Computer Science_; Scope: basics of construction and operation of modern ICT networks, types and characteristics of malware, selected cyber threats, types and characteristics of selected network attacks, anti-virus and anti-spam, firewall and intrusion detection systems, selected algorithms of data encryption.
 
 `2022`
-**JavaScript Programming**, _Warsaw School of Computer Science_; 10h, scope: learning the fundamentals of JavaScript: variables, loops, conditional statements, functions, use of arrays; working with the DOM tree (searching for tree elements, modifying, deleting, adding, styling, adding events); practical use of new elements of the language (ECMAScript 6+ standard) rest and spread operatiors, class syntax, arrow functions, destructuring, template strings.
+**JavaScript Programming**, _Warsaw School of Computer Science_; Scope: learning the fundamentals of JavaScript: variables, loops, conditional statements, functions, use of arrays; working with the DOM tree (searching for tree elements, modifying, deleting, adding, styling, adding events); practical use of new elements of the language (ECMAScript 6+ standard) rest and spread operators, class syntax, arrow functions, destructuring, template strings.
 
-`Dec 2023` **Amazon AWS Warsaw**. Workshop for Devops from Amazon AWS Warsaw Department. Cloud infrastructure setups for Gamedev and Perforce.
+`Dec 2023` **Amazon AWS Warsaw**. Devops workshop by Amazon AWS Warsaw Department. Cloud infrastructure setups for Gamedev and Perforce.
 
 `2022`
 **Google Cloud Fundamentals: Core Infrastructure**, Google Cloud.
@@ -173,8 +172,7 @@ Game Production and Team Management in distributed model. Produced and sucessful
 
 `2011` *Chartered Architect*, _EU Licence_
 
-Architectural Competitions:
-1. *Marszalkowska Street Refurbishment*, Main Prize. 2. *JP2 Memorial*, 2nd Prize. 3. *Arkonski Park*, 1st Honorable Mention 
+Architectural Competitions: 1. Marszalkowska Street in Warsaw Refurbishment, *Main Prize*. 2. Pope's Memorial JP2, *2nd Prize*. 3. Park Arkonski, *1st Honorable Mention* 
 
 Publications:
 *Archdaily Magazine* Realisation of [City Home with a Touch of Fibonacci.](https://www.archdaily.com/793466/home-town-with-a-touch-of-fibonacci-wlodek-sidorczuk?)
