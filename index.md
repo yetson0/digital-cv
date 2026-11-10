@@ -7,7 +7,7 @@
 
 -->
 
-<!-- updated: Oct 2026 -->
+<!-- updated: Nov 2026 -->
 
 # Wlodo Sidorczuk // IT cv
 
@@ -27,22 +27,22 @@ cv update:
 ## Skills.
 
 ### / soft
-	lead ****-    | leadership, managing teams, agile, scrum
-	pm ****-      | technical PM, roadmaps, supervision, budget, business
-	agile ****-   | jira admin, youtrack, agile scrum/kanban, SDLC
-	docs ****-    | contracts, legal documents, agreements, reports, manuals
+	lead ****-   | leadership, managing teams, agile, scrum
+	pm ****-     | technical PM, roadmaps, supervision, budget, business
+	agile ****-  | jira admin, youtrack, agile scrum/kanban, SDLC
+	docs ****-   | contracts, legal documents, agreements, reports, manuals
 
 ### / it
-	unix **---    | bash, scripting, admin
-	git ***--     | gitflow, github, actions, workflows, dvc
-	ai **---      | llm, ollama, opencode, tensor, agents, skills, governance
-	py **---      | data science, pandas, matplotlib, numpy, streamlit
-	devops *----  | docker, docker-compose, terraform, aws, gcp
-	web **---     | html, css, deployments, js, react, figma design
-	db *----      | sql, mongodb, json
-	docs ***--    | software, confluence, markdown, diagraming
-	z80 ***--     | assembly
-	gWrkspc **--- | Google Workspace, groups, scripting automation 
+	unix **---   | bash, scripting, admin
+	git ***--    | gitflow, github, actions, workflows, dvc
+	ai **---     | llm, ollama, opencode, tensor, agents, skills, governance
+	py **---     | data science, pandas, matplotlib, numpy, streamlit
+	devops *---- | docker, docker-compose, terraform, aws, gcp
+	web **---    | html, css, deployments, js, react, figma design
+	db *----     | sql, mongodb, json
+	docs ***--   | software, confluence, markdown, diagraming
+	z80 ***--    | assembly, low level programming
+	google **--- | Google Workspace, groups, scripting automation 
 
 ### / cgi
 	2d ****-   | advanced photoshop, illustrator, indesign, figma
@@ -53,7 +53,7 @@ cv update:
 
 ## Experience.
 `Jun 2024-now`
-**Ziegler Group / Dornach** *Senior Technical Project Manager. Full-time (2.5y+)*
+**Ziegler Group / Dornach** *Senior Technical Project Manager, Devops, IAM. Full-time (2.5y+)*
 
 Managed cross-functional DevOps and IAM engineering teams of internal and external developers to maintain high delivery throughput while optimizing contractor budgets.
 
@@ -67,7 +67,7 @@ Optimized operational workflows and processes within teams, providing automation
 
 Technical Documentation & Architecture: Authored comprehensive technical specifications, infrastructure diagrams, and project documentation to standardize best practices and streamline team onboarding.
 
-Contributed to Security Team for the success of ISO27001 company's certification.
+Contributed to Security Team for successful cybersecurity ISO27001 certification.
 
 `Nov 2023-Aug 2024`
 **Mighty-Koi** *Lead Senior Gamedev Producer. Full-time (1y)*
@@ -75,12 +75,12 @@ Contributed to Security Team for the success of ISO27001 company's certification
 Vertical slice production for *The Night Wanderer* game. Initialized project, roadmap, fundamental technical development setup with team processes. High-level and sprint planning and daily team management of 50 developers. Release management, setup, managing scrum, content for project along with design and software documentation. Deep understanding of all production pipelines, processes and menthoring. Administrating Jira, Confluence, Slack, Google Workspace for teams. Co-developed Devops setup for Perforce & Unreal enigine. Stakeholders reporting and risk management.
 
 `2022-Jun 2024`
-**National Institute for Public Health, Poland.** *Senior Data Scientist / Software Developer / Solutions Architect. Part-time (2.5y)* 
+**National Institute for Public Health, Poland.** *Senior Data Scientist, Software Developer, Solutions Architect. Part-time (2.5y)* 
 
 Data analysis and research on health and population risks factor topics. Cooperation with ICM Warsaw University on pandemic Covid-19 preparedness using agent-based modelling predictions. Designed & delivered EU Grant Project: a dockerized application for Covid alerting system in waste waters. Developed in Python, Pandas, GeoPandas, Matplotlib and Docker.
 
 `Oct 2023-Dec 2024`
-**Blockbit.es** *Tech Project Manager / Junior Rust Developer. Part-time. (1y)*
+**Blockbit.es** *Technical Project Manager, Junior Rust Developer. Part-time (1y)*
 
 Lead production of *The Unicorn Jump* mobile game developed in Unity. Managed multidisciplinary team of 5. Started as Rust developer then Technical PM. Provided services for Casper blockchain, application development. Co-developed various websites and docker containerized apps.
 
@@ -105,6 +105,7 @@ Game Production and Team Management in distributed model. Produced and sucessful
 
 Architecture experience (20y).
 
+
 ### /aviation
 
 `2010-2022`
@@ -114,14 +115,15 @@ Architecture experience (20y).
 
 Helicopters & Aviation Industry experience (12y).
 
+
 ## Education.
 **Warsaw School of Computer Science.** Python programming, Javascript, React, Cybersecurity. 
 
 **Technical University of Warsaw, Poland.** Faculty of Architecture and Urban Design, *Master's Degree, Engineer, Architect* diploma.
 
-**Technical University of Eindhoven, Netherlands.** Architecture.
-
 **University of Detroit Mercy, United States (USA).** Architecture, Data Science.
+
+**Technical University of Eindhoven, Netherlands.** Architecture.
 
 *multiple IT courses (see below)*
 
@@ -161,8 +163,9 @@ Helicopters & Aviation Industry experience (12y).
 
 **Advanced Computer Modeling**, *Rhino 3D*, course & certification, Lemondim, Warsaw.
 
+
 ## Accomplishments
-`2026` *Ziegler Group / Dornach*, contributed to successful ISO27001 comapny's certification.
+`2026` *Ziegler Group / Dornach*, contributed to successful cybersecurity ISO27001 certification.
 
 `2022` *Floodland*. Game release, produced and delivered to [Steam](https://store.steampowered.com/app/1336180/Floodland/). Responsible for team management, scrum/agile, localization content and meta company standards.
 
@@ -178,6 +181,7 @@ Publications:
 *Archdaily Magazine* Realisation of [City Home with a Touch of Fibonacci.](https://www.archdaily.com/793466/home-town-with-a-touch-of-fibonacci-wlodek-sidorczuk?)
 
 *Architektura.Info* Realisation of [State Archive Radom.](https://architektura.info/architektura/polska_i_swiat/archiwum_panstwowe_w_radomiu)
+
 
 ## Research & interests
 Bigdata, Gamedev Community, Ultralight trekking, trail running, mountaineering.
